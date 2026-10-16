@@ -1,0 +1,501 @@
+﻿customer_code,customer_type,customer_name,phone,email,address,area,ward,company,tax_code,debt,total_sales,last_transaction_date,is_active
+sdv-id-IUHrLf,Cá nhân,Ngô Hồng Sơn,0978515906,susanwebster@example.org,"Số 192, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,500000.0,2026-12-18 11:45:28,1
+sdv-id-pfCuII,Cá nhân,Trần Thanh Tùng,0921828592,petersashley@example.net,"Số 30, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-Jphocl,Cá nhân,Phạm Hải Linh,0918429833,sanfordtimothy@example.org,"Số 158, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-NNmEGU,Cá nhân,Bùi Thanh Khoa,0993303777,williamfreeman@example.com,"Số 239, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,290000.0,2026-10-28 10:37:25,1
+sdv-id-WCDeSH,Cá nhân,Ngô Thị Phúc,0954410148,brittany96@example.org,"Số 219, Đường Lê Lợi",Đà Nẵng,Phường Hàng Bài,,,0.0,1038000.0,2026-12-24 03:22:08,1
+sdv-id-zGLDwM,Cá nhân,Lê Văn Phúc,0923492385,michael92@example.net,"Số 7, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-LarSif,Cá nhân,Nguyễn Văn Sơn,0930776478,csanchez@example.com,"Số 36, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-oIBQvk,Cá nhân,Hoàng Hồng Long,0924716857,erinsanders@example.org,"Số 141, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,500000.0,2026-12-26 14:31:55,1
+sdv-id-TDoBga,Cá nhân,Phan Thị Nam,0935708194,cardenastheresa@example.net,"Số 84, Đường Bà Triệu",Đà Nẵng,Phường Hàng Bài,,,0.0,748000.0,2026-12-30 18:05:40,1
+sdv-id-lLthyK,Cá nhân,Dương Thanh Quân,0965137801,andrewdelgado@example.net,"Số 170, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,1970000.0,2026-12-17 02:14:05,1
+sdv-id-WxIkcr,Cá nhân,Đặng Phương Cường,0918815720,timothy82@example.com,"Số 105, Đường Giải Phóng",Cần Thơ,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-rBatse,Cá nhân,Vũ Đức Phúc,0924716857,carlos89@example.com,"Số 240, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,2060000.0,2026-12-30 23:32:49,1
+sdv-id-WDIQEn,Cá nhân,Ngô Hồng Bình,0991883846,salinasmackenzie@example.org,"Số 66, Đường Bà Triệu",Cần Thơ,Phường Hàng Bài,,,0.0,0.0,2026-07-24 21:47:47,1
+sdv-id-JyUKyL,Cá nhân,Ngô Phương Trang,0992613013,laurachang@example.com,"Số 48, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-UpYREr,Cá nhân,Đặng Minh Khoa,0952501540,wayne34@example.net,"Số 176, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-KFVGHr,Cá nhân,Trần Khánh Anh,0962405812,jesus65@example.org,"Số 158, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-12-15 08:28:42,1
+sdv-id-zUTcBZ,Cá nhân,Vũ Đức Phúc,0938538251,pateljennifer@example.com,"Số 187, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-jwhFky,Cá nhân,Hồ Thành Bình,0958841557,williamsontoni@example.net,"Số 26, Đường Nguyễn Trãi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,880000.0,2026-03-15 12:22:00,1
+sdv-id-yjULMD,Cá nhân,Ngô Hồng Trang,0965137801,dlarsen@example.com,"Số 24, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-LZLzmS,Cá nhân,Đỗ Khánh Bình,0973900135,kimsarah@example.net,"Số 84, Đường Bà Triệu",Bắc Ninh,Phường Hàng Bài,,,0.0,959000.0,2026-12-30 22:47:19,1
+sdv-id-AEJYdl,Cá nhân,Hồ Phương Anh,0950814428,caldwelltamara@example.org,"Số 246, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,520000.0,2026-12-04 02:23:40,1
+sdv-id-YtRDnY,Cá nhân,Võ Thị Cường,0975802771,nchan@example.net,"Số 131, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-VSYabI,Cá nhân,Hoàng Hồng Trang,0930261159,angela68@example.com,"Số 235, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,1100000.0,2026-12-28 13:34:59,1
+sdv-id-nJTYOZ,Cá nhân,Vũ Quốc Anh,0924541967,andrewsjared@example.org,"Số 242, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-gKPDOk,Cá nhân,Lê Hải Bình,0964362516,sean57@example.org,"Số 79, Đường Giải Phóng",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-QMCnQv,Cá nhân,Hồ Quốc Quân,0960491958,katherine19@example.com,"Số 144, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,590000.0,2026-12-29 20:28:41,1
+sdv-id-GEcydK,Cá nhân,Đỗ Đức Hà,0930534124,paul73@example.com,"Số 62, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-CYdFVj,Cá nhân,Dương Hải Sơn,0946231783,danielthompson@example.org,"Số 155, Đường Bà Triệu",Bắc Ninh,Phường Hàng Bài,,,0.0,940000.0,2026-12-30 23:32:05,1
+sdv-id-fjEDfw,Cá nhân,Đỗ Quốc Anh,0964193837,sandratran@example.net,"Số 104, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,970000.0,2026-12-27 22:14:41,1
+sdv-id-TeKKRT,Cá nhân,Đặng Minh Anh,0971367643,jose11@example.net,"Số 170, Đường Giải Phóng",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-10-05 12:49:54,1
+sdv-id-pdpJfS,Cá nhân,Dương Thành Cường,0964193837,tflores@example.org,"Số 36, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-11-24 11:52:06,1
+sdv-id-bDhUNB,Cá nhân,Nguyễn Tuấn Dũng,0917634247,joshuasanchez@example.net,"Số 219, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,1220000.0,2026-12-29 21:34:03,1
+sdv-id-wfzvPE,Cá nhân,Hồ Đức Khoa,0939394291,crystalgallegos@example.net,"Số 69, Đường Giải Phóng",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-CQxjsx,Cá nhân,Phạm Văn Sơn,0921257528,walkervalerie@example.net,"Số 183, Đường Nguyễn Trãi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-SaIEyU,Cá nhân,Hoàng Khánh Phúc,0992874006,ashley03@example.com,"Số 173, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-awixYl,Cá nhân,Dương Đức Phúc,0971124923,ivargas@example.net,"Số 181, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-hlescg,Cá nhân,Trần Khánh Anh,0962405812,davidmcguire@example.net,"Số 135, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,520000.0,2026-12-25 21:59:47,1
+sdv-id-vfkqWT,Cá nhân,Vũ Khánh Linh,0987388337,jeffreychambers@example.org,"Số 119, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-NYvCKe,Cá nhân,Phạm Thị Ngọc,0973083727,allisonpatton@example.com,"Số 102, Đường Giải Phóng",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-EwCOKB,Cá nhân,Huỳnh Văn Dũng,0927558317,patriciaortiz@example.org,"Số 150, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,1770000.0,2026-10-30 00:21:28,1
+sdv-id-UtODKl,Cá nhân,Đặng Thị Nam,0997705310,jacksonkatrina@example.org,"Số 219, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,590000.0,2026-04-22 08:33:17,1
+sdv-id-sohhXg,Cá nhân,Lê Đức Trang,0991737913,oyoder@example.com,"Số 219, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-GlEzUF,Cá nhân,Phan Minh Ngọc,0922981052,jeanettedavis@example.org,"Số 69, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,1038000.0,2026-08-31 07:42:11,1
+sdv-id-mwOdOs,Cá nhân,Dương Quốc Anh,0964277800,martinezlindsey@example.org,"Số 170, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,590000.0,2026-05-13 13:57:21,1
+sdv-id-KdXdvI,Cá nhân,Trần Hải Linh,0971124923,hallveronica@example.com,"Số 152, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,970000.0,2026-12-26 23:35:52,1
+sdv-id-RJbpem,Cá nhân,Võ Khánh Linh,0998842638,brentmckee@example.net,"Số 155, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,920000.0,2026-12-30 04:27:52,1
+sdv-id-JHWtXI,Cá nhân,Vũ Đức Quân,0982287061,frank42@example.net,"Số 84, Đường Cầu Giấy",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-KPJbAW,Cá nhân,Vũ Văn Nam,0941039390,samuel37@example.org,"Số 219, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-12-30 22:02:33,1
+sdv-id-CgrwAL,Cá nhân,Trần Thành Linh,0992613013,douglas95@example.net,"Số 48, Đường Giải Phóng",Đà Nẵng,Phường Hàng Bài,,,0.0,350000.0,2026-12-26 11:50:56,1
+sdv-id-EyinlT,Cá nhân,Trần Minh Nam,0961642594,cynthiabecker@example.net,"Số 193, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,880000.0,2026-04-16 07:02:46,1
+sdv-id-TpSsZp,Cá nhân,Vũ Thị Bình,0938538251,knapptamara@example.com,"Số 57, Đường Kim Mã",Đà Nẵng,Phường Hàng Bài,,,0.0,590000.0,2026-12-30 15:29:28,1
+sdv-id-JaSGJL,Cá nhân,Hoàng Quốc Long,0923676961,scottkelly@example.com,"Số 65, Đường Kim Mã",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-07-03 12:08:54,1
+sdv-id-CuKnln,Cá nhân,Võ Thị Trang,0936757737,miguel14@example.net,"Số 68, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-yfyUpW,Cá nhân,Dương Văn Sơn,0930513739,laura58@example.org,"Số 221, Đường Nguyễn Trãi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,750000.0,2026-11-05 14:36:26,1
+sdv-id-PkcsGp,Cá nhân,Đặng Hải Nam,0945507920,matthew63@example.org,"Số 83, Đường Kim Mã",Đà Nẵng,Phường Hàng Bài,,,0.0,520000.0,2026-12-03 10:51:16,1
+sdv-id-GePyGT,Cá nhân,Vũ Đức Phúc,0938538251,singhtyler@example.com,"Số 57, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,350000.0,2026-11-27 21:49:02,1
+sdv-id-ZiyKfU,Cá nhân,Ngô Khánh Long,0924541967,brettprice@example.net,"Số 105, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,1038000.0,2026-11-17 20:05:00,1
+sdv-id-lHaaIA,Cá nhân,Dương Quốc Anh,0920043277,anthonydevon@example.net,"Số 185, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,870000.0,2026-12-26 10:22:06,1
+sdv-id-gljLNT,Cá nhân,Lê Hải Bình,0963293990,imiller@example.com,"Số 119, Đường Lê Lợi",Quảng Ninh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-IzxBvi,Cá nhân,Võ Minh Huy,0970606674,sullivankurt@example.org,"Số 60, Đường Bà Triệu",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-WmcMvV,Cá nhân,Võ Thị Khoa,0963238057,antoniomartin@example.org,"Số 83, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-WEElFq,Cá nhân,Vũ Khánh Nam,0976001106,byrdraymond@example.org,"Số 91, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,220000.0,2026-12-30 21:32:18,1
+sdv-id-vHmSST,Cá nhân,Huỳnh Thị Nam,0935714784,martinezbradley@example.org,"Số 125, Đường Lê Lợi",Bắc Ninh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-VNYcot,Cá nhân,Huỳnh Quốc Khoa,0927307598,kylebrown@example.com,"Số 93, Đường Giải Phóng",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-QhajsI,Cá nhân,Dương Tuấn Quân,0966775103,smithjeffrey@example.net,"Số 40, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-kFgRov,Cá nhân,Trần Phương Linh,0954410148,jose11@example.org,"Số 229, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-ifiaHP,Cá nhân,Hồ Đức Cường,0954039837,mcleankimberly@example.org,"Số 24, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,1038000.0,2026-11-29 23:18:17,1
+sdv-id-EKdZqN,Cá nhân,Hồ Hồng Sơn,0977187530,ngonzalez@example.com,"Số 248, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,870000.0,2026-11-23 22:16:59,1
+sdv-id-rQXnkF,Cá nhân,Phạm Văn Sơn,0977378254,stephen67@example.org,"Số 73, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-OUpIHi,Cá nhân,Phạm Khánh Huy,0997705310,johnnygamble@example.com,"Số 246, Đường Kim Mã",Hải Phòng,Phường Hàng Bài,,,0.0,1750000.0,2026-12-04 01:47:28,1
+sdv-id-YNcDYU,Cá nhân,Phạm Thanh Cường,0942691263,zjohnson@example.org,"Số 102, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,1760000.0,2026-12-29 08:58:49,1
+sdv-id-Xpmtjy,Cá nhân,Hoàng Khánh Phúc,0916895666,jameswhite@example.net,"Số 160, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-SOvJvJ,Cá nhân,Vũ Hải Cường,0956020613,daisyramsey@example.com,"Số 28, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-kmeRDo,Cá nhân,Đặng Hải Bình,0997705310,dsanchez@example.com,"Số 100, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-COFQbY,Cá nhân,Đặng Phương Tùng,0923383077,jorge86@example.net,"Số 123, Đường Lê Lợi",Bắc Ninh,Phường Hàng Bài,,,0.0,350000.0,2026-11-05 18:39:10,1
+sdv-id-Uugunx,Cá nhân,Võ Đức Bình,0927152188,jamesmyers@example.com,"Số 243, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,970000.0,2026-12-23 21:29:42,1
+sdv-id-tvmJyL,Cá nhân,Võ Hồng Sơn,0941473195,ronaldfigueroa@example.com,"Số 237, Đường Bà Triệu",Cần Thơ,Phường Hàng Bài,,,0.0,880000.0,2026-12-23 08:31:04,1
+sdv-id-QUNfBj,Cá nhân,Võ Quốc Ngọc,0918815720,burkekathleen@example.org,"Số 57, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-xIDlbj,Cá nhân,Nguyễn Phương Anh,0972394301,madkins@example.com,"Số 141, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,959000.0,2026-12-29 14:13:39,1
+sdv-id-GrSvzH,Cá nhân,Lê Tuấn Trang,0928740864,shernandez@example.net,"Số 155, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,2509000.0,2026-12-16 08:45:30,1
+sdv-id-AtIdmT,Cá nhân,Ngô Hải Linh,0973083727,brittanyhoward@example.net,"Số 173, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,590000.0,2026-12-26 18:57:51,1
+sdv-id-CcnuCQ,Cá nhân,Ngô Thanh Bình,0951949529,kirkrandall@example.com,"Số 139, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-TqDFOG,Cá nhân,Đặng Minh Khoa,0988270025,hollandkevin@example.net,"Số 111, Đường Kim Mã",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-zFERbP,Cá nhân,Đặng Minh Khoa,0939394291,jared71@example.com,"Số 4, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-EJKQYy,Cá nhân,Dương Văn Ngọc,0920939011,stevenprice@example.net,"Số 100, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-TtaJPw,Cá nhân,Dương Minh Tùng,0931751079,iwarren@example.org,"Số 159, Đường Cầu Giấy",Đà Nẵng,Phường Hàng Bài,,,0.0,590000.0,2026-08-07 02:07:56,1
+sdv-id-tHfRzE,Cá nhân,Đặng Khánh Quân,0923676961,edwinwhite@example.com,"Số 142, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-yMcMwr,Cá nhân,Nguyễn Văn Sơn,0956020613,cunninghamnicole@example.com,"Số 62, Đường Cầu Giấy",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-IyYVDc,Cá nhân,Đặng Hồng Trang,0946817443,krystal96@example.com,"Số 142, Đường Nguyễn Trãi",Đà Nẵng,Phường Hàng Bài,,,0.0,669000.0,2026-11-23 13:48:10,1
+sdv-id-dDilhJ,Cá nhân,Vũ Văn Nam,0985694715,millertonya@example.com,"Số 113, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-ovdbfQ,Cá nhân,Đặng Thành Anh,0963293990,raymond64@example.com,"Số 38, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-yHmkGs,Cá nhân,Võ Hồng Ngọc,0956970882,lwebster@example.org,"Số 62, Đường Cầu Giấy",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,880000.0,2026-12-25 23:39:01,1
+sdv-id-dQXcXG,Cá nhân,Trần Đức Huy,0939372360,woodscharles@example.net,"Số 83, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,1628000.0,2026-09-05 17:57:40,1
+sdv-id-HYdfzT,Cá nhân,Ngô Khánh Trang,0925766039,robleskatherine@example.com,"Số 218, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-kQhxdk,Cá nhân,Hồ Khánh Bình,0927152188,thomaslamb@example.com,"Số 36, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-TPcgVr,Cá nhân,Ngô Khánh Bình,0997219599,marquezdaniel@example.net,"Số 53, Đường Bà Triệu",Đà Nẵng,Phường Hàng Bài,,,0.0,880000.0,2026-12-30 14:20:01,1
+sdv-id-GBiknA,Cá nhân,Võ Khánh Sơn,0988393811,rdavis@example.net,"Số 219, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-ykwZMb,Cá nhân,Vũ Tuấn Long,0988393811,nbarton@example.org,"Số 71, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,1230000.0,2026-04-12 12:01:20,1
+sdv-id-XjCXJx,Cá nhân,Dương Quốc Anh,0946817443,andreabraun@example.net,"Số 157, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-rTUAGZ,Cá nhân,Ngô Đức Ngọc,0920043277,preston89@example.net,"Số 226, Đường Cầu Giấy",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-CCChiY,Cá nhân,Huỳnh Tuấn Tùng,0965250068,hutchinsoncurtis@example.com,"Số 84, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-12-19 05:38:18,1
+sdv-id-qDhMeI,Cá nhân,Vũ Khánh Linh,0992613013,thompsoncaroline@example.com,"Số 125, Đường Giải Phóng",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,590000.0,2026-12-30 23:32:57,1
+sdv-id-VbQlII,Cá nhân,Hồ Khánh Huy,0986149359,marcus99@example.net,"Số 64, Đường Kim Mã",Quảng Ninh,Phường Hàng Bài,,,0.0,1470000.0,2026-05-20 10:25:42,1
+sdv-id-MATUAZ,Cá nhân,Đặng Văn Phúc,0968802946,julia89@example.com,"Số 212, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-CMQYRz,Cá nhân,Bùi Khánh Cường,0996707983,micheal43@example.com,"Số 183, Đường Nguyễn Trãi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,1038000.0,2026-04-08 03:25:04,1
+sdv-id-xfKgqV,Cá nhân,Huỳnh Thanh Linh,0983076970,julia73@example.net,"Số 132, Đường Nguyễn Trãi",Quảng Ninh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-YLNPSg,Cá nhân,Ngô Thành Khoa,0991756179,chad96@example.org,"Số 104, Đường Kim Mã",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-vbXlDD,Cá nhân,Vũ Tuấn Ngọc,0998145654,reedcarl@example.org,"Số 227, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,590000.0,2026-12-18 02:05:00,1
+sdv-id-NdVqtt,Cá nhân,Trần Thanh Khoa,0910359129,longlorraine@example.net,"Số 4, Đường Kim Mã",Hải Phòng,Phường Hàng Bài,,,0.0,1020000.0,2026-05-19 12:18:37,1
+sdv-id-qeXdaK,Cá nhân,Ngô Thị Trang,0943742830,laurenrichardson@example.org,"Số 14, Đường Cầu Giấy",Đà Nẵng,Phường Hàng Bài,,,0.0,1470000.0,2026-08-17 07:42:02,1
+sdv-id-Abqngn,Cá nhân,Vũ Hải Quân,0938748452,doughertychristian@example.net,"Số 30, Đường Bà Triệu",Quảng Ninh,Phường Hàng Bài,,,0.0,880000.0,2026-12-30 18:34:27,1
+sdv-id-zAjQyA,Cá nhân,Hồ Đức Anh,0992874006,mitchelllarry@example.org,"Số 83, Đường Kim Mã",Cần Thơ,Phường Hàng Bài,,,0.0,880000.0,2026-08-10 10:31:42,1
+sdv-id-jEpVCg,Cá nhân,Hoàng Hồng Long,0977187530,vasquezjessica@example.org,"Số 133, Đường Lê Lợi",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-DTszyt,Cá nhân,Hồ Khánh Huy,0935714784,xmorrison@example.com,"Số 246, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,1318000.0,2026-12-25 03:44:45,1
+sdv-id-WGrjXq,Cá nhân,Dương Văn Sơn,0961642594,paul76@example.org,"Số 155, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-HURJcJ,Cá nhân,Phạm Khánh Anh,0947295260,brandon07@example.org,"Số 97, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,870000.0,2026-12-22 13:31:32,1
+sdv-id-jgaUna,Cá nhân,Hoàng Hồng Long,0928740864,brianwilliams@example.net,"Số 138, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,640000.0,2026-11-04 16:39:56,1
+sdv-id-JLvmBQ,Cá nhân,Phan Thành Trang,0931980274,donald81@example.com,"Số 14, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-fqJgFQ,Cá nhân,Phan Quốc Dũng,0996629889,davidmartin@example.org,"Số 182, Đường Kim Mã",Cần Thơ,Phường Hàng Bài,,,0.0,640000.0,2026-09-29 04:13:36,1
+sdv-id-YiyfsH,Cá nhân,Huỳnh Hồng Ngọc,0954410148,abutler@example.com,"Số 163, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,1179000.0,2026-12-17 03:31:17,1
+sdv-id-WGvhUM,Cá nhân,Nguyễn Hồng Hà,0915864298,kevin64@example.org,"Số 22, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-UFEFEe,Cá nhân,Trần Đức Huy,0931980274,ctodd@example.net,"Số 100, Đường Bà Triệu",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-poEUBu,Cá nhân,Võ Tuấn Phúc,0942787299,hernandezsarah@example.com,"Số 117, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-kUpQMI,Cá nhân,Phan Hải Cường,0928740864,riosmatthew@example.org,"Số 104, Đường Kim Mã",Đà Nẵng,Phường Hàng Bài,,,0.0,590000.0,2026-12-15 11:55:14,1
+sdv-id-aICkEU,Cá nhân,Hoàng Thanh Sơn,0988703005,michael32@example.com,"Số 45, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,880000.0,2026-11-30 03:01:02,1
+sdv-id-XkIQQJ,Cá nhân,Hoàng Minh Nam,0976354180,bradley83@example.org,"Số 221, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-wfneXb,Cá nhân,Hồ Khánh Huy,0927232410,novaksuzanne@example.com,"Số 201, Đường Nguyễn Trãi",Hải Phòng,Phường Hàng Bài,,,0.0,870000.0,2026-12-24 21:06:08,1
+sdv-id-MyrvuO,Cá nhân,Dương Hồng Cường,0914308421,jessicamartinez@example.net,"Số 17, Đường Cầu Giấy",Đà Nẵng,Phường Hàng Bài,,,0.0,590000.0,2026-11-21 02:21:45,1
+sdv-id-XHwmwq,Cá nhân,Phạm Phương Hà,0992631441,julie53@example.com,"Số 99, Đường Cầu Giấy",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-tcUoHm,Cá nhân,Trần Thành Linh,0943528453,traci91@example.com,"Số 100, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-WrZnAU,Cá nhân,Võ Quốc Tùng,0946231783,rachel90@example.net,"Số 125, Đường Giải Phóng",Hải Phòng,Phường Hàng Bài,,,0.0,1400000.0,2026-12-30 22:37:41,1
+sdv-id-oDuwwn,Cá nhân,Huỳnh Hải Huy,0911031743,bgonzales@example.net,"Số 223, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,350000.0,2026-11-10 07:31:38,1
+sdv-id-BsBwHh,Cá nhân,Phan Thanh Quân,0939854548,markthomas@example.net,"Số 203, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,350000.0,2026-03-20 21:51:37,1
+sdv-id-enjnHg,Cá nhân,Trần Thanh Quân,0921267237,christinashaw@example.net,"Số 226, Đường Nguyễn Trãi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-JzhOJO,Cá nhân,Đỗ Quốc Trang,0919510312,robert58@example.org,"Số 117, Đường Giải Phóng",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,1038000.0,2026-12-30 22:23:40,1
+sdv-id-EouPxP,Cá nhân,Lê Phương Huy,0982287061,herreralisa@example.net,"Số 164, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,870000.0,2026-12-30 23:32:32,1
+sdv-id-naTTdN,Cá nhân,Hồ Quốc Sơn,0968246664,leonerin@example.org,"Số 92, Đường Cầu Giấy",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,590000.0,2026-11-13 20:21:43,1
+sdv-id-ywoKqr,Cá nhân,Ngô Hồng Nam,0944675473,nancyreed@example.org,"Số 28, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-PGPbRX,Cá nhân,Đặng Minh Anh,0922660194,sphillips@example.net,"Số 28, Đường Lê Lợi",Hải Phòng,Phường Hàng Bài,,,0.0,1388000.0,2026-11-16 06:24:00,1
+sdv-id-zkJvcU,Cá nhân,Hồ Đức Dũng,0969509870,heather88@example.org,"Số 37, Đường Cầu Giấy",Bắc Ninh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-GCGbpD,Cá nhân,Trần Hải Linh,0913176186,davidwilson@example.net,"Số 239, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-xebXPa,Cá nhân,Vũ Tuấn Anh,0939801436,nanderson@example.net,"Số 214, Đường Cầu Giấy",Cần Thơ,Phường Hàng Bài,,,0.0,0.0,2026-09-11 08:10:53,1
+sdv-id-ZJGuiF,Cá nhân,Trần Minh Quân,0987388337,tammyhill@example.org,"Số 68, Đường Cầu Giấy",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-TkurTw,Cá nhân,Đặng Phương Cường,0911031743,kathryncollier@example.com,"Số 249, Đường Giải Phóng",Hải Phòng,Phường Hàng Bài,,,0.0,959000.0,2026-10-26 18:03:08,1
+sdv-id-iTqByR,Cá nhân,Vũ Đức Phúc,0946231783,michaelgreen@example.net,"Số 138, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-IDKxCv,Cá nhân,Hoàng Khánh Anh,0924716857,michael54@example.org,"Số 36, Đường Nguyễn Trãi",Hải Phòng,Phường Hàng Bài,,,0.0,940000.0,2026-11-13 05:48:36,1
+sdv-id-VExsxU,Cá nhân,Vũ Tuấn Anh,0920633503,adrianwest@example.com,"Số 239, Đường Giải Phóng",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-jKAbQy,Cá nhân,Đặng Hồng Trang,0947437115,llee@example.org,"Số 146, Đường Bà Triệu",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-07-13 08:04:31,1
+sdv-id-xgUMaz,Cá nhân,Phan Đức Quân,0971367643,michaeladams@example.net,"Số 150, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,1090000.0,2026-07-02 05:10:56,1
+sdv-id-xGsXju,Cá nhân,Ngô Tuấn Cường,0966581473,iadams@example.org,"Số 66, Đường Bà Triệu",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-08-02 00:11:03,1
+sdv-id-hnZrQx,Cá nhân,Đặng Thanh Trang,0952501540,npatel@example.net,"Số 68, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-cOmzTK,Cá nhân,Hồ Đức Anh,0988831486,jgreene@example.org,"Số 197, Đường Nguyễn Trãi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-jZmRWb,Cá nhân,Ngô Hồng Nam,0965250068,orobinson@example.org,"Số 98, Đường Nguyễn Trãi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-CHtXAy,Cá nhân,Ngô Văn Hà,0913176186,bradfordtheresa@example.com,"Số 83, Đường Lê Lợi",Đà Nẵng,Phường Hàng Bài,,,0.0,1390000.0,2026-12-30 07:01:41,1
+sdv-id-ATEDFa,Cá nhân,Dương Văn Sơn,0928740864,psnyder@example.com,"Số 93, Đường Bà Triệu",Đà Nẵng,Phường Hàng Bài,,,0.0,1740000.0,2026-12-18 00:41:06,1
+sdv-id-LlRxyG,Cá nhân,Bùi Thị Hà,0965137801,yvonnewilkerson@example.org,"Số 109, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,880000.0,2026-03-16 06:55:31,1
+sdv-id-pFpgBh,Cá nhân,Nguyễn Văn Tùng,0964362516,nathanmiddleton@example.net,"Số 197, Đường Nguyễn Trãi",Quảng Ninh,Phường Hàng Bài,,,0.0,2260000.0,2026-12-30 22:14:36,1
+sdv-id-WXVtyN,Cá nhân,Đặng Phương Cường,0954039837,owang@example.org,"Số 12, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-WKLPnE,Cá nhân,Hồ Đức Khoa,0995756900,stevenrichardson@example.com,"Số 128, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-eVicID,Cá nhân,Võ Phương Sơn,0986726461,lancerose@example.org,"Số 100, Đường Lê Lợi",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-XXeFOm,Cá nhân,Ngô Phương Bình,0935708194,qshepard@example.org,"Số 111, Đường Cầu Giấy",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-wGNxJJ,Cá nhân,Trần Tuấn Nam,0913885234,nicole76@example.org,"Số 92, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,520000.0,2026-12-14 08:23:50,1
+sdv-id-muKQtD,Cá nhân,Đặng Khánh Quân,0955150390,melanielewis@example.org,"Số 159, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-xscKXy,Cá nhân,Hoàng Hải Hà,0976001106,jfisher@example.net,"Số 93, Đường Cầu Giấy",Bắc Ninh,Phường Hàng Bài,,,0.0,750000.0,2026-12-14 18:41:42,1
+sdv-id-JorCea,Cá nhân,Bùi Thanh Hà,0922517517,tmiller@example.com,"Số 100, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,880000.0,2026-12-29 00:47:31,1
+sdv-id-jJSZZi,Cá nhân,Phan Thị Nam,0913471527,bjefferson@example.org,"Số 114, Đường Bà Triệu",Đà Nẵng,Phường Hàng Bài,,,0.0,350000.0,2026-12-04 10:27:28,1
+sdv-id-TCivcF,Cá nhân,Đỗ Minh Linh,0988703005,lindacombs@example.net,"Số 145, Đường Kim Mã",Hải Phòng,Phường Hàng Bài,,,0.0,1230000.0,2026-12-25 14:09:20,1
+sdv-id-KbBxSO,Cá nhân,Vũ Thanh Tùng,0981481992,tammyoconnell@example.org,"Số 164, Đường Bà Triệu",Hải Phòng,Phường Hàng Bài,,,0.0,520000.0,2026-05-23 07:58:14,1
+sdv-id-uCBkYT,Cá nhân,Đỗ Thành Long,0976481885,rhondaflores@example.com,"Số 226, Đường Cầu Giấy",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-gwpYWN,Cá nhân,Nguyễn Tuấn Dũng,0930776478,brookerobinson@example.net,"Số 177, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,350000.0,2026-12-29 08:10:39,1
+sdv-id-XZTUsV,Cá nhân,Hoàng Khánh Linh,0977187530,sandymontoya@example.net,"Số 57, Đường Kim Mã",Bắc Ninh,Phường Hàng Bài,,,0.0,880000.0,2026-04-17 13:45:04,1
+sdv-id-qBOGHL,Cá nhân,Hoàng Quốc Long,0984411983,joel11@example.org,"Số 104, Đường Kim Mã",Đà Nẵng,Phường Hàng Bài,,,0.0,880000.0,2026-06-01 19:51:47,1
+sdv-id-LUybQd,Cá nhân,Hoàng Minh Nam,0931361812,odavis@example.net,"Số 12, Đường Cầu Giấy",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,1760000.0,2026-12-09 11:47:28,1
+sdv-id-LHJloE,Cá nhân,Đặng Thanh Trang,0991883846,smithchristine@example.org,"Số 170, Đường Lê Lợi",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-NEJbOH,Cá nhân,Hoàng Hải Long,0958884978,patricksean@example.net,"Số 240, Đường Giải Phóng",Đà Nẵng,Phường Hàng Bài,,,0.0,880000.0,2026-09-25 13:43:03,1
+sdv-id-ovYDmA,Cá nhân,Dương Hải Sơn,0981971316,jessica32@example.org,"Số 155, Đường Bà Triệu",Bắc Ninh,Phường Hàng Bài,,,0.0,959000.0,2026-11-27 21:14:12,1
+sdv-id-YtYWgE,Cá nhân,Vũ Tuấn Ngọc,0997980930,ewright@example.org,"Số 235, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-15 12:22:00,1
+sdv-id-vhRwmh,Cá nhân,Dương Thành Cường,0993131979,michaelwilliams@example.com,"Số 141, Đường Giải Phóng",Quảng Ninh,Phường Hàng Bài,,,0.0,880000.0,2026-08-06 02:27:49,1
+sdv-id-nwxzpQ,Cá nhân,Võ Thị Khoa,0955150390,larry61@example.org,"Số 117, Đường Bà Triệu",Đà Nẵng,Phường Hàng Bài,,,0.0,350000.0,2026-11-27 17:09:21,1
+sdv-id-HkgBbw,Cá nhân,Võ Hải Khoa,0997980930,bonnie62@example.org,"Số 245, Đường Nguyễn Trãi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,880000.0,2026-12-30 20:40:01,1
+sdv-id-gPfUBx,Cá nhân,Ngô Văn Quân,0923383077,smithedward@example.org,"Số 12, Đường Giải Phóng",Hải Phòng,Phường Hàng Bài,,,0.0,870000.0,2026-11-29 11:17:54,1
+sdv-id-OgdGnV,Cá nhân,Võ Đức Trang,0924314759,nfreeman@example.org,"Số 249, Đường Giải Phóng",Đà Nẵng,Phường Hàng Bài,,,0.0,220000.0,2026-09-08 13:12:51,1
+sdv-id-VRnWmq,Cá nhân,Nguyễn Văn Tùng,0963118906,thomasbean@example.net,"Số 249, Đường Giải Phóng",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,880000.0,2026-05-01 01:52:24,1
+sdv-id-NsegqC,Cá nhân,Phan Đức Quân,0971367643,mackenziehuang@example.org,"Số 83, Đường Lê Lợi",Cần Thơ,Phường Hàng Bài,,,0.0,220000.0,2026-09-09 11:30:21,1
+sdv-id-moVQnX,Cá nhân,Phan Minh Ngọc,0922981052,morgandaniel@example.net,"Số 69, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,1549000.0,2026-12-13 23:54:28,1
+sdv-id-AvrPOL,Cá nhân,Ngô Thị Quân,0920939011,joseph20@example.org,"Số 198, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-avkPbX,Cá nhân,Võ Thanh Linh,0939801436,youngwilliam@example.net,"Số 183, Đường Nguyễn Trãi",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-FAkmuZ,Cá nhân,Vũ Minh Tùng,0946817443,mary33@example.com,"Số 226, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,1090000.0,2026-12-30 03:28:05,1
+sdv-id-hjvgPC,Cá nhân,Trần Minh Long,0980138498,matthew79@example.com,"Số 221, Đường Lê Lợi",Quảng Ninh,Phường Hàng Bài,,,0.0,880000.0,2026-12-30 21:33:16,1
+sdv-id-EJsbGJ,Cá nhân,Vũ Thanh Tùng,0957236885,vanessa59@example.com,"Số 57, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-piWPND,Cá nhân,Trần Thị Trang,0947295260,melinda89@example.net,"Số 17, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,959000.0,2026-12-30 18:47:18,1
+sdv-id-TOOmbx,Cá nhân,Hoàng Tuấn Dũng,0955610493,benitezsusan@example.org,"Số 166, Đường Giải Phóng",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,870000.0,2026-03-15 12:22:00,1
+sdv-id-qKlfyd,Cá nhân,Ngô Hải Linh,0971045700,wrightchristopher@example.net,"Số 50, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,700000.0,2026-10-03 16:58:26,1
+sdv-id-iBNDmR,Cá nhân,Dương Minh Tùng,0920356922,andrewsjames@example.net,"Số 38, Đường Bà Triệu",Bắc Ninh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-rrlnKq,Cá nhân,Phạm Phương Bình,0993131979,johnclark@example.com,"Số 121, Đường Lê Lợi",Quảng Ninh,Phường Hàng Bài,,,0.0,0.0,2026-12-30 20:36:45,1
+sdv-id-xgEZeF,Cá nhân,Võ Phương Sơn,0970468188,hannah01@example.net,"Số 185, Đường Cầu Giấy",Đà Nẵng,Phường Hàng Bài,,,0.0,1019000.0,2026-12-30 00:45:30,1
+sdv-id-WtqPUE,Cá nhân,Ngô Thanh Bình,0969509870,srobinson@example.com,"Số 119, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-pqSBgW,Cá nhân,Đặng Thị Bình,0945520201,frankchristopher@example.com,"Số 206, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,970000.0,2026-04-25 06:49:26,1
+sdv-id-UNHXNK,Cá nhân,Đỗ Thành Long,0973920651,vodom@example.com,"Số 24, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,1820000.0,2026-12-21 21:26:07,1
+sdv-id-OHtZDm,Cá nhân,Phạm Đức Huy,0985764804,costasteven@example.com,"Số 131, Đường Cầu Giấy",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-LxfDPd,Cá nhân,Đỗ Thanh Trang,0959555330,katiefox@example.org,"Số 141, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-tuEbfL,Cá nhân,Phạm Phương Bình,0975579548,krista52@example.net,"Số 141, Đường Cầu Giấy",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,2376000.0,2026-10-10 20:35:27,1
+sdv-id-KBZPCY,Cá nhân,Đỗ Thành Long,0924314759,stevenfuller@example.net,"Số 146, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,1020000.0,2026-06-18 06:39:36,1
+sdv-id-oDzQrP,Cá nhân,Võ Hồng Ngọc,0965692629,sarastephens@example.com,"Số 163, Đường Nguyễn Trãi",Đà Nẵng,Phường Hàng Bài,,,0.0,870000.0,2026-08-06 05:15:00,1
+sdv-id-hTGRbz,Cá nhân,Hoàng Khánh Phúc,0973083727,uarcher@example.com,"Số 63, Đường Lê Lợi",Đà Nẵng,Phường Hàng Bài,,,0.0,880000.0,2026-12-19 13:10:03,1
+sdv-id-kbyJAF,Cá nhân,Nguyễn Tuấn Dũng,0956020613,tstewart@example.org,"Số 134, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-06-19 10:08:57,1
+sdv-id-MCAmuy,Cá nhân,Lê Hồng Hà,0923044889,andersondesiree@example.com,"Số 72, Đường Giải Phóng",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-zFJEWV,Cá nhân,Trần Thị Trang,0947295260,kathleen18@example.net,"Số 196, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-yOAtdz,Cá nhân,Võ Thị Khoa,0947437115,whubbard@example.net,"Số 219, Đường Lê Lợi",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-KgTpSC,Cá nhân,Huỳnh Thị Nam,0917634247,paige33@example.net,"Số 171, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-buzTWj,Cá nhân,Đặng Phương Tùng,0995756900,tsmith@example.org,"Số 15, Đường Bà Triệu",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-tbHXRf,Cá nhân,Ngô Hải Linh,0945520201,anthonyroberts@example.net,"Số 212, Đường Cầu Giấy",Bắc Ninh,Phường Hàng Bài,,,0.0,870000.0,2026-09-18 15:49:00,1
+sdv-id-TmtRvn,Cá nhân,Võ Thanh Nam,0978608612,webbrobert@example.com,"Số 118, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,350000.0,2026-10-03 21:22:04,1
+sdv-id-jGJzec,Cá nhân,Ngô Khánh Tùng,0920949687,frederickkevin@example.com,"Số 241, Đường Lê Lợi",Đà Nẵng,Phường Hàng Bài,,,0.0,500000.0,2026-12-24 01:05:35,1
+sdv-id-WCHLSA,Cá nhân,Hồ Đức Cường,0948530827,wcordova@example.net,"Số 21, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-kSIGBg,Cá nhân,Nguyễn Văn Sơn,0916818112,nicole37@example.org,"Số 112, Đường Nguyễn Trãi",Cần Thơ,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-uuUvRY,Cá nhân,Hoàng Khánh Dũng,0933386929,oscott@example.net,"Số 176, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,350000.0,2026-10-18 06:23:28,1
+sdv-id-uUgpEm,Cá nhân,Hồ Khánh Huy,0986644106,sdavidson@example.com,"Số 91, Đường Lê Lợi",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-kJgigG,Cá nhân,Hồ Văn Ngọc,0922981052,sergio48@example.net,"Số 138, Đường Bà Triệu",Cần Thơ,Phường Hàng Bài,,,0.0,880000.0,2026-07-07 16:52:04,1
+sdv-id-iWmUdy,Cá nhân,Bùi Minh Hà,0923044889,faith20@example.com,"Số 83, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-BGmZYf,Cá nhân,Dương Văn Sơn,0918593410,audreystewart@example.org,"Số 150, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,350000.0,2026-12-11 10:40:28,1
+sdv-id-ngtGAZ,Cá nhân,Hoàng Khánh Anh,0918593410,katiesmith@example.com,"Số 104, Đường Kim Mã",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-12-12 07:39:47,1
+sdv-id-BMuMTL,Cá nhân,Vũ Đức Quân,0939394291,collinskimberly@example.com,"Số 92, Đường Nguyễn Trãi",Đà Nẵng,Phường Hàng Bài,,,0.0,590000.0,2026-12-21 01:01:03,1
+sdv-id-wWHbIj,Cá nhân,Dương Đức Bình,0942787299,ghunter@example.org,"Số 91, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-uQXIKF,Cá nhân,Đặng Hồng Trang,0956970882,mglass@example.com,"Số 93, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-tKSbJF,Cá nhân,Lê Đức Trang,0991737913,morgankevin@example.com,"Số 12, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,870000.0,2026-05-23 02:29:16,1
+sdv-id-lbDeOo,Cá nhân,Phan Thị Quân,0989609131,taylorchristy@example.net,"Số 117, Đường Bà Triệu",Hải Phòng,Phường Hàng Bài,,,0.0,1220000.0,2026-09-11 06:22:13,1
+sdv-id-jWByod,Cá nhân,Dương Thành Cường,0986644106,adamwise@example.com,"Số 93, Đường Bà Triệu",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-trlWee,Cá nhân,Dương Hải Sơn,0928740864,alicia98@example.com,"Số 36, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,1090000.0,2026-07-14 17:45:00,1
+sdv-id-GJrnCp,Cá nhân,Huỳnh Tuấn Tùng,0947437115,collinsmichael@example.com,"Số 112, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,520000.0,2026-12-16 05:53:38,1
+sdv-id-DcexXO,Cá nhân,Vũ Văn Nam,0978608612,robertwilson@example.org,"Số 116, Đường Bà Triệu",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-10-22 00:35:15,1
+sdv-id-CwaYCj,Cá nhân,Hoàng Văn Huy,0916895666,margaret53@example.com,"Số 182, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,520000.0,2026-06-15 23:35:54,1
+sdv-id-dcPkUd,Cá nhân,Võ Thị Trang,0945810056,pamela95@example.net,"Số 104, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-HqIBMA,Cá nhân,Trần Thanh Tùng,0924541967,terryvictoria@example.net,"Số 176, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-gikoYZ,Cá nhân,Vũ Tuấn Ngọc,0986726461,perezdavid@example.org,"Số 241, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,880000.0,2026-12-30 02:53:35,1
+sdv-id-ILOdRL,Cá nhân,Nguyễn Hồng Hà,0915864298,tammy17@example.org,"Số 169, Đường Nguyễn Trãi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,220000.0,2026-12-30 21:01:42,1
+sdv-id-cSxLdg,Cá nhân,Đỗ Khánh Bình,0979967676,lsmith@example.org,"Số 71, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-dyLcri,Cá nhân,Võ Đức Bình,0998842638,renee98@example.net,"Số 26, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-jCbNIV,Cá nhân,Ngô Hồng Bình,0924541967,williamsbrenda@example.org,"Số 185, Đường Lê Lợi",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-eHBcmw,Cá nhân,Ngô Hồng Nam,0993940940,rachel74@example.org,"Số 83, Đường Giải Phóng",Cần Thơ,Phường Hàng Bài,,,0.0,350000.0,2026-10-17 19:57:42,1
+sdv-id-vzdtdL,Cá nhân,Hồ Hồng Sơn,0975579548,shannonanderson@example.org,"Số 68, Đường Cầu Giấy",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-JzyQLN,Cá nhân,Trần Hồng Tùng,0923383077,johnsonjasmine@example.com,"Số 84, Đường Cầu Giấy",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,669000.0,2026-10-28 12:38:05,1
+sdv-id-qKopOA,Cá nhân,Phan Tuấn Bình,0986644106,allison40@example.com,"Số 100, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-LXgAyc,Cá nhân,Ngô Hải Linh,0921432787,hopkinsjennifer@example.com,"Số 196, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,750000.0,2026-12-25 23:16:15,1
+sdv-id-WzxtIB,Cá nhân,Huỳnh Thị Ngọc,0924314759,browndaniel@example.com,"Số 163, Đường Lê Lợi",Bắc Ninh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-tqqhXr,Cá nhân,Võ Thị Khoa,0950814428,xgordon@example.org,"Số 227, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-vWfxSe,Cá nhân,Dương Thành Tùng,0911031743,martinmelvin@example.net,"Số 163, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-10-06 23:57:32,1
+sdv-id-ksSnhL,Cá nhân,Võ Thị Cường,0986181117,wrightisaiah@example.com,"Số 27, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,1549000.0,2026-12-08 18:05:04,1
+sdv-id-TZJlmw,Cá nhân,Võ Thành Dũng,0920949687,jacob52@example.net,"Số 57, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,880000.0,2026-10-24 19:22:01,1
+sdv-id-XguaGe,Cá nhân,Hoàng Hải Hà,0993940940,fnolan@example.org,"Số 71, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,880000.0,2026-12-15 18:59:48,1
+sdv-id-LcCsRK,Cá nhân,Dương Thanh Quân,0923383077,phillipnavarro@example.com,"Số 35, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,590000.0,2026-04-23 00:44:27,1
+sdv-id-fYBBHX,Cá nhân,Đặng Thành Anh,0973920651,millererika@example.com,"Số 215, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,959000.0,2026-12-26 03:42:15,1
+sdv-id-krszLS,Cá nhân,Đỗ Quốc Trang,0919832887,kimberly25@example.net,"Số 148, Đường Cầu Giấy",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-epmwDQ,Cá nhân,Hồ Khánh Bình,0938748452,meghan54@example.net,"Số 185, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-XQIyvN,Cá nhân,Hồ Thành Cường,0964362516,wilkinsdavid@example.org,"Số 227, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-rYOMUu,Cá nhân,Vũ Tuấn Ngọc,0915253567,danielle72@example.com,"Số 160, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-smjiGN,Cá nhân,Dương Văn Sơn,0925374874,anthony33@example.org,"Số 139, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,880000.0,2026-12-26 05:27:12,1
+sdv-id-iZeCWI,Cá nhân,Phạm Phương Hà,0991390501,logan43@example.org,"Số 212, Đường Lê Lợi",Hải Phòng,Phường Hàng Bài,,,0.0,590000.0,2026-05-27 17:34:36,1
+sdv-id-dwSgfm,Cá nhân,Võ Quốc Tùng,0941244663,fsmith@example.net,"Số 193, Đường Bà Triệu",Quảng Ninh,Phường Hàng Bài,,,0.0,700000.0,2026-10-16 19:09:57,1
+sdv-id-hqaocg,Cá nhân,Hoàng Văn Nam,0925766039,sperez@example.net,"Số 139, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-mlldEa,Cá nhân,Võ Thành Phúc,0993131979,byoung@example.com,"Số 105, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-gGytwL,Cá nhân,Phạm Phương Hà,0995756900,lindajackson@example.com,"Số 15, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,870000.0,2026-12-30 22:43:35,1
+sdv-id-COawva,Cá nhân,Ngô Khánh Tùng,0933386929,kristine63@example.org,"Số 176, Đường Giải Phóng",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-cPWufx,Cá nhân,Võ Thành Hà,0950814428,davisjohn@example.com,"Số 7, Đường Bà Triệu",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-MgbtYP,Cá nhân,Trần Minh Quân,0932151928,courtneyparker@example.net,"Số 121, Đường Giải Phóng",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-GKxOla,Cá nhân,Trần Hồng Tùng,0942691263,donna46@example.com,"Số 60, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,590000.0,2026-10-19 11:13:48,1
+sdv-id-uohcyk,Cá nhân,Phan Tuấn Anh,0941473195,shawn43@example.com,"Số 118, Đường Bà Triệu",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-LTNpWk,Cá nhân,Vũ Thành Quân,0923383077,jeffrey65@example.org,"Số 99, Đường Cầu Giấy",Hải Phòng,Phường Hàng Bài,,,0.0,570000.0,2026-05-02 07:30:27,1
+sdv-id-AlqkUK,Cá nhân,Dương Hồng Cường,0938538251,kathryn63@example.com,"Số 117, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,1100000.0,2026-12-30 23:00:29,1
+sdv-id-wYsKTh,Cá nhân,Phạm Phương Bình,0966775103,ryanhayley@example.org,"Số 240, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,1620000.0,2026-09-16 15:54:40,1
+sdv-id-FPTeYp,Cá nhân,Ngô Thị Trang,0951708177,wendy38@example.org,"Số 218, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,880000.0,2026-11-27 20:26:18,1
+sdv-id-MrgoSh,Cá nhân,Dương Văn Sơn,0997225156,whitebrandon@example.com,"Số 28, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,220000.0,2026-07-17 04:35:37,1
+sdv-id-vulNDz,Cá nhân,Đặng Tuấn Linh,0998145654,samanthasmith@example.com,"Số 212, Đường Lê Lợi",Cần Thơ,Phường Hàng Bài,,,0.0,1630000.0,2026-12-29 08:31:16,1
+sdv-id-DajUHZ,Cá nhân,Võ Thành Hà,0976481885,qgarza@example.org,"Số 200, Đường Kim Mã",Hải Phòng,Phường Hàng Bài,,,0.0,880000.0,2026-12-07 14:46:39,1
+sdv-id-wgNliv,Cá nhân,Trần Thanh Tùng,0991390501,parkererin@example.org,"Số 35, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-Muptfd,Cá nhân,Dương Khánh Sơn,0952501540,vasquezmichelle@example.net,"Số 114, Đường Bà Triệu",Hải Phòng,Phường Hàng Bài,,,0.0,590000.0,2026-06-22 02:03:59,1
+sdv-id-ViOgAz,Cá nhân,Huỳnh Tuấn Tùng,0972394301,amanda45@example.net,"Số 185, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-xsYfom,Cá nhân,Ngô Khánh Bình,0973900135,yholt@example.com,"Số 221, Đường Lê Lợi",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-DwMotc,Cá nhân,Trần Đức Sơn,0984801233,uwagner@example.org,"Số 248, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-Aiwiru,Cá nhân,Ngô Đức Sơn,0972104107,gordonshelby@example.org,"Số 114, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,940000.0,2026-08-13 10:41:54,1
+sdv-id-TzlWem,Cá nhân,Lê Phương Huy,0920043277,rblair@example.org,"Số 53, Đường Giải Phóng",Hải Phòng,Phường Hàng Bài,,,0.0,970000.0,2026-12-27 11:23:22,1
+sdv-id-jNgnAI,Cá nhân,Đặng Thị Bình,0985694715,danielgalvan@example.com,"Số 123, Đường Giải Phóng",Đà Nẵng,Phường Hàng Bài,,,0.0,870000.0,2026-12-05 08:56:50,1
+sdv-id-NiaGES,Cá nhân,Võ Minh Huy,0947215199,alisha75@example.net,"Số 181, Đường Giải Phóng",Bắc Ninh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-qIZZQS,Cá nhân,Ngô Đức Ngọc,0991390501,chapmantoni@example.net,"Số 196, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,880000.0,2026-12-13 23:33:40,1
+sdv-id-gAoGDy,Cá nhân,Vũ Quốc Anh,0924314759,erin65@example.org,"Số 166, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,350000.0,2026-12-07 19:33:16,1
+sdv-id-ARfmnM,Cá nhân,Ngô Thành Khoa,0987490893,matthewmason@example.net,"Số 2, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,2638000.0,2026-12-15 04:47:35,1
+sdv-id-MkMmvH,Cá nhân,Trần Đức Huy,0969401199,lvaldez@example.org,"Số 123, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,880000.0,2026-11-19 07:47:55,1
+sdv-id-LtIXgs,Cá nhân,Đặng Hồng Trang,0921267237,timothy82@example.net,"Số 171, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-crtDja,Cá nhân,Huỳnh Thành Linh,0988270025,williamswhitney@example.com,"Số 145, Đường Kim Mã",Đà Nẵng,Phường Hàng Bài,,,0.0,750000.0,2026-07-30 02:01:59,1
+sdv-id-TUJtgE,Cá nhân,Phan Thị Nam,0982287061,stephanie75@example.net,"Số 63, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,590000.0,2026-12-12 11:47:15,1
+sdv-id-TMZZPR,Cá nhân,Lê Hồng Hà,0988703005,swilliams@example.com,"Số 163, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-zLBsrl,Cá nhân,Huỳnh Thị Ngọc,0951708177,marysmith@example.org,"Số 226, Đường Cầu Giấy",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,590000.0,2026-12-29 13:39:12,1
+sdv-id-vnYqXO,Cá nhân,Ngô Hồng Trang,0998725654,piercemelissa@example.com,"Số 38, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,3748000.0,2026-12-16 22:04:21,1
+sdv-id-DyalvK,Cá nhân,Hoàng Tuấn Bình,0992558242,zryan@example.net,"Số 92, Đường Nguyễn Trãi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,1470000.0,2026-11-03 17:55:01,1
+sdv-id-jodJMC,Cá nhân,Võ Hồng Sơn,0975529051,csmith@example.org,"Số 63, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,880000.0,2026-12-30 20:58:56,1
+sdv-id-NAmqME,Cá nhân,Huỳnh Hải Phúc,0965250068,morganjames@example.com,"Số 83, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,1840000.0,2026-12-01 07:11:46,1
+sdv-id-EZVEYK,Cá nhân,Huỳnh Thanh Linh,0932084778,susan60@example.net,"Số 70, Đường Nguyễn Trãi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-ZIlvEW,Cá nhân,Lê Tuấn Trang,0991756179,robert46@example.net,"Số 155, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-KaGKnP,Cá nhân,Trần Văn Anh,0925492573,kgregory@example.net,"Số 240, Đường Giải Phóng",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,970000.0,2026-12-20 10:58:27,1
+sdv-id-TgssGh,Cá nhân,Võ Thị Khoa,0947437115,aeaton@example.com,"Số 105, Đường Bà Triệu",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-SmBrjf,Cá nhân,Võ Hồng Trang,0915253567,allenscott@example.net,"Số 131, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-qToNmJ,Cá nhân,Phạm Văn Nam,0918593410,mariaschwartz@example.org,"Số 139, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-sKaZBF,Cá nhân,Dương Hồng Cường,0959684848,michellethomas@example.org,"Số 17, Đường Cầu Giấy",Cần Thơ,Phường Hàng Bài,,,0.0,350000.0,2026-11-03 19:50:36,1
+sdv-id-fzbGiP,Cá nhân,Phan Hồng Dũng,0988831486,barry80@example.org,"Số 234, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-yGoLmE,Cá nhân,Vũ Khánh Linh,0992613013,blewis@example.org,"Số 111, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,1180000.0,2026-12-17 22:02:43,1
+sdv-id-OapVGz,Cá nhân,Đỗ Quốc Anh,0945810056,daniel40@example.org,"Số 246, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,590000.0,2026-12-30 23:04:27,1
+sdv-id-ElNsLE,Cá nhân,Đặng Phương Tùng,0991737913,sarathomas@example.com,"Số 109, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-BzIgNi,Cá nhân,Trần Minh Quân,0988393811,pguzman@example.net,"Số 181, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,350000.0,2026-09-13 22:23:25,1
+sdv-id-DgaTvy,Cá nhân,Phan Thanh Quân,0954410148,lcordova@example.net,"Số 85, Đường Bà Triệu",Đà Nẵng,Phường Hàng Bài,,,0.0,500000.0,2026-10-05 21:31:23,1
+sdv-id-iCYdRO,Cá nhân,Đặng Phương Huy,0938748452,harrisemily@example.org,"Số 239, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-dipocD,Cá nhân,Hồ Thành Cường,0921828592,clarkvanessa@example.org,"Số 44, Đường Nguyễn Trãi",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-06-12 19:56:52,1
+sdv-id-vvwGra,Cá nhân,Dương Văn Ngọc,0989609131,wcooper@example.net,"Số 155, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-06-02 05:04:35,1
+sdv-id-NatpNu,Cá nhân,Võ Hải Khoa,0948137561,hugheszachary@example.net,"Số 21, Đường Bà Triệu",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-IKXOkm,Cá nhân,Lê Văn Quân,0924923247,stephen93@example.net,"Số 232, Đường Nguyễn Trãi",Cần Thơ,Phường Hàng Bài,,,0.0,870000.0,2026-12-18 20:06:15,1
+sdv-id-SdqJcN,Cá nhân,Trần Đức Huy,0971124923,tjackson@example.com,"Số 152, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-nDrNxK,Cá nhân,Đỗ Quốc Trang,0935714784,lynnwiley@example.org,"Số 139, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,2310000.0,2026-11-14 08:54:19,1
+sdv-id-nfaUHF,Cá nhân,Hồ Văn Ngọc,0947295260,pricejohn@example.org,"Số 17, Đường Cầu Giấy",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-Jtfrnl,Cá nhân,Ngô Thị Trang,0973083727,ncook@example.net,"Số 170, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,590000.0,2026-12-13 04:09:19,1
+sdv-id-qMWBQL,Cá nhân,Ngô Hồng Sơn,0991737913,lawrencejones@example.org,"Số 195, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,590000.0,2026-07-02 23:35:50,1
+sdv-id-gVtrDg,Cá nhân,Phan Hải Cường,0977187530,adamstanton@example.net,"Số 12, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,500000.0,2026-11-29 00:31:49,1
+sdv-id-yHjokM,Cá nhân,Huỳnh Văn Nam,0914308421,zsmith@example.net,"Số 100, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,2570000.0,2026-10-29 12:14:08,1
+sdv-id-HsyVnC,Cá nhân,Ngô Thành Khoa,0938538251,ryanhamilton@example.org,"Số 12, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-VSWVsi,Cá nhân,Hồ Đức Dũng,0975802771,fhernandez@example.net,"Số 229, Đường Nguyễn Trãi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-biiHDN,Cá nhân,Lê Hải Bình,0970606674,mary29@example.org,"Số 232, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,290000.0,2026-10-24 17:04:27,1
+sdv-id-OuzFqY,Cá nhân,Đặng Thành Dũng,0971124923,samueljones@example.com,"Số 181, Đường Cầu Giấy",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,700000.0,2026-08-11 19:06:52,1
+sdv-id-WJLgDN,Cá nhân,Vũ Thành Linh,0923044889,uhill@example.net,"Số 226, Đường Cầu Giấy",Cần Thơ,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-fJBEmE,Cá nhân,Võ Thành Phúc,0919832887,vasquezjohnny@example.net,"Số 240, Đường Giải Phóng",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-szPGNW,Cá nhân,Hoàng Hải Hà,0960882459,lisawest@example.net,"Số 148, Đường Cầu Giấy",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-21 00:31:42,1
+sdv-id-pXCMOx,Cá nhân,Dương Hải Sơn,0924716857,oramirez@example.org,"Số 120, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-VJprbQ,Cá nhân,Hồ Thanh Huy,0988703005,whiteheadvalerie@example.org,"Số 117, Đường Nguyễn Trãi",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-fywRMZ,Cá nhân,Đặng Phương Tùng,0998145654,matthew13@example.com,"Số 182, Đường Kim Mã",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-QqZXrH,Cá nhân,Võ Tuấn Phúc,0967698610,arthur78@example.org,"Số 3, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-NVheZV,Cá nhân,Võ Khánh Linh,0931776452,deborahmiller@example.org,"Số 57, Đường Bà Triệu",Hải Phòng,Phường Hàng Bài,,,0.0,290000.0,2026-10-27 06:50:27,1
+sdv-id-heOQlC,Cá nhân,Hồ Văn Ngọc,0987490893,taylorbarron@example.com,"Số 120, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,870000.0,2026-03-15 12:22:00,1
+sdv-id-vnWeWz,Cá nhân,Ngô Văn Quân,0992874006,whitejames@example.org,"Số 248, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,350000.0,2026-05-27 01:31:23,1
+sdv-id-ZvexyY,Cá nhân,Võ Hồng Ngọc,0965692629,henryjessica@example.com,"Số 63, Đường Lê Lợi",Cần Thơ,Phường Hàng Bài,,,0.0,1750000.0,2026-12-11 17:11:37,1
+sdv-id-eJXaPZ,Cá nhân,Trần Thanh Khoa,0911698142,christophermitchell@example.org,"Số 169, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,1470000.0,2026-10-31 21:38:01,1
+sdv-id-StwOsm,Cá nhân,Nguyễn Phương Anh,0939854548,joycebates@example.com,"Số 116, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-DZhCMs,Cá nhân,Đặng Thành Anh,0952704903,wward@example.org,"Số 50, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,880000.0,2026-12-24 10:28:15,1
+sdv-id-UzYjnm,Cá nhân,Võ Thị Trang,0948089166,woodslorraine@example.org,"Số 113, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,220000.0,2026-12-30 22:06:11,1
+sdv-id-iQvXOl,Cá nhân,Huỳnh Thanh Linh,0992558242,villarrealtoni@example.org,"Số 24, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,880000.0,2026-11-23 21:54:55,1
+sdv-id-sUUoRz,Cá nhân,Hoàng Thanh Sơn,0975802771,scottvasquez@example.com,"Số 27, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-JMWomh,Cá nhân,Đặng Phương Dũng,0951949529,jeffreybenton@example.com,"Số 12, Đường Giải Phóng",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,520000.0,2026-12-30 17:46:26,1
+sdv-id-rOQIpB,Cá nhân,Võ Phương Sơn,0994676162,lrobinson@example.org,"Số 26, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-rMOHOM,Cá nhân,Vũ Thành Linh,0933574011,tracey35@example.org,"Số 132, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-oIaqXZ,Cá nhân,Phan Đức Quân,0930776478,zmartinez@example.com,"Số 159, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,520000.0,2026-03-15 12:22:00,1
+sdv-id-MwPffm,Cá nhân,Ngô Thị Phúc,0969401199,floresraymond@example.net,"Số 134, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-NAIFlz,Cá nhân,Võ Văn Nam,0924923247,emmawest@example.net,"Số 183, Đường Nguyễn Trãi",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-qzgzNF,Cá nhân,Lê Hải Dũng,0955150390,lindabarrera@example.com,"Số 84, Đường Cầu Giấy",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-nJtXMk,Cá nhân,Hồ Đức Dũng,0970606674,msawyer@example.com,"Số 92, Đường Cầu Giấy",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-gkApTz,Cá nhân,Phan Hồng Dũng,0919010480,william92@example.org,"Số 38, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,700000.0,2026-11-15 18:00:26,1
+sdv-id-tUmRka,Cá nhân,Hồ Đức Dũng,0997139443,jenniferhogan@example.org,"Số 3, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,220000.0,2026-05-01 00:31:43,1
+sdv-id-VoGRVK,Cá nhân,Nguyễn Văn Sơn,0959555330,david29@example.com,"Số 28, Đường Lê Lợi",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-owkjus,Cá nhân,Trần Minh Quân,0939372360,carpentertracy@example.org,"Số 123, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,1760000.0,2026-12-30 22:47:13,1
+sdv-id-ZgtaSF,Cá nhân,Trần Hồng Tùng,0952704903,chavezheidi@example.net,"Số 245, Đường Nguyễn Trãi",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-srMVWt,Cá nhân,Ngô Khánh Anh,0927463800,nrivera@example.org,"Số 57, Đường Bà Triệu",Cần Thơ,Phường Hàng Bài,,,0.0,870000.0,2026-12-19 04:04:34,1
+sdv-id-KelnnH,Cá nhân,Bùi Thanh Hà,0959555330,rebecca63@example.com,"Số 28, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,350000.0,2026-12-04 09:56:36,1
+sdv-id-CgTQBE,Cá nhân,Ngô Khánh Trang,0912944682,juliedavis@example.net,"Số 93, Đường Cầu Giấy",Đà Nẵng,Phường Hàng Bài,,,0.0,750000.0,2026-09-28 09:24:58,1
+sdv-id-vxARtu,Cá nhân,Ngô Văn Hà,0957130035,andrew54@example.com,"Số 36, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-kmkXXe,Cá nhân,Dương Đức Phúc,0997705310,herreraalexandra@example.org,"Số 239, Đường Cầu Giấy",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,1760000.0,2026-12-19 08:43:14,1
+sdv-id-IxuCWd,Cá nhân,Nguyễn Hồng Hà,0931751079,eric86@example.com,"Số 38, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-oPDJfl,Cá nhân,Võ Tuấn Phúc,0959555330,alexisgilbert@example.com,"Số 68, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-ynQREJ,Cá nhân,Hoàng Hải Long,0942787299,keith72@example.com,"Số 246, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-09-12 22:42:42,1
+sdv-id-vnrzIn,Cá nhân,Ngô Thị Phúc,0945810056,vjohnson@example.org,"Số 100, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-DwNPYk,Cá nhân,Đặng Thanh Trang,0945507920,santanachristopher@example.org,"Số 142, Đường Nguyễn Trãi",Bắc Ninh,Phường Hàng Bài,,,0.0,290000.0,2026-06-20 04:08:44,1
+sdv-id-dBeNrO,Cá nhân,Dương Thị Sơn,0978515906,jeffreyanderson@example.com,"Số 7, Đường Nguyễn Trãi",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-EhIiSO,Cá nhân,Đỗ Quốc Anh,0952091325,gvillanueva@example.net,"Số 85, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-lljpmY,Cá nhân,Đặng Thị Nam,0999639081,ndoyle@example.net,"Số 48, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,350000.0,2026-05-14 03:16:23,1
+sdv-id-PuEfVO,Cá nhân,Vũ Hải Cường,0960882459,rrodriguez@example.org,"Số 42, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-AMlVHo,Cá nhân,Phan Thị Quân,0919339597,lindsayolson@example.org,"Số 233, Đường Kim Mã",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-HcFyQu,Cá nhân,Bùi Khánh Cường,0948137561,carlsolomon@example.net,"Số 214, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-GbBhdA,Cá nhân,Hồ Thành Cường,0921828592,smcdaniel@example.com,"Số 132, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,1740000.0,2026-12-29 06:08:16,1
+sdv-id-JkQEqB,Cá nhân,Ngô Hồng Trang,0925457816,dfuller@example.net,"Số 241, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,880000.0,2026-12-15 05:59:03,1
+sdv-id-anhBfU,Cá nhân,Dương Văn Ngọc,0948530827,ujensen@example.org,"Số 144, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,1090000.0,2026-06-27 23:48:32,1
+sdv-id-XJSYvh,Cá nhân,Đặng Thanh Bình,0919832887,elizabeth34@example.org,"Số 105, Đường Bà Triệu",Hải Phòng,Phường Hàng Bài,,,0.0,870000.0,2026-08-18 16:25:28,1
+sdv-id-RudReh,Cá nhân,Võ Thanh Linh,0973411827,jason36@example.com,"Số 73, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,1460000.0,2026-12-28 21:35:23,1
+sdv-id-anijDj,Cá nhân,Ngô Văn Hà,0927558317,candace23@example.com,"Số 150, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,520000.0,2026-11-25 22:58:14,1
+sdv-id-boyJFA,Cá nhân,Đặng Thanh Bình,0942787299,josephchapman@example.com,"Số 117, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-kUKMqR,Cá nhân,Trần Minh Nam,0922660194,nicholsdanny@example.org,"Số 59, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,1460000.0,2026-12-27 05:22:36,1
+sdv-id-EpIIHU,Cá nhân,Trần Thanh Tùng,0970606674,williamsmegan@example.com,"Số 19, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-KUuUcI,Cá nhân,Nguyễn Khánh Long,0942787299,gonzalezlisa@example.com,"Số 248, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,520000.0,2026-12-22 13:20:27,1
+sdv-id-bgaNeK,Cá nhân,Hồ Quốc Sơn,0950071487,jennifer06@example.com,"Số 146, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,1470000.0,2026-11-24 17:55:17,1
+sdv-id-qxPhoE,Cá nhân,Hồ Đức Ngọc,0986560394,belindalarson@example.org,"Số 38, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,350000.0,2026-04-10 08:21:27,1
+sdv-id-nwmJvp,Cá nhân,Lê Quốc Ngọc,0993303777,dale11@example.net,"Số 141, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,750000.0,2026-12-30 23:32:41,1
+sdv-id-AhipMm,Cá nhân,Trần Thị Trang,0987490893,stanleyjerry@example.com,"Số 155, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-iWppCX,Cá nhân,Hồ Khánh Bình,0948137561,mdavis@example.org,"Số 100, Đường Lê Lợi",Cần Thơ,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-gBWNad,Cá nhân,Võ Thị Cường,0920949687,hpaul@example.org,"Số 245, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-jVTHxp,Cá nhân,Võ Thị Khoa,0923676961,youngalexander@example.org,"Số 98, Đường Nguyễn Trãi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,590000.0,2026-12-20 11:44:27,1
+sdv-id-mCvGKL,Cá nhân,Vũ Thanh Tùng,0987277086,holly37@example.org,"Số 117, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-GFOdef,Cá nhân,Ngô Thị Trang,0971045700,kristinamiles@example.org,"Số 174, Đường Nguyễn Trãi",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-IKUtuc,Cá nhân,Đặng Hải Trang,0919339597,bellabigail@example.com,"Số 44, Đường Nguyễn Trãi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,570000.0,2026-12-30 02:22:39,1
+sdv-id-CMXUNe,Cá nhân,Đỗ Thành Long,0984801233,andrea17@example.net,"Số 139, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-12-27 22:03:12,1
+sdv-id-FMTExC,Cá nhân,Hoàng Hồng Long,0997225156,melissamathews@example.net,"Số 172, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,1390000.0,2026-12-30 02:43:00,1
+sdv-id-eZtfSR,Cá nhân,Đặng Hải Nam,0935708194,lisa78@example.org,"Số 70, Đường Nguyễn Trãi",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-gqiByh,Cá nhân,Ngô Hồng Nam,0936757737,zgallegos@example.net,"Số 48, Đường Giải Phóng",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,1090000.0,2026-12-23 13:02:53,1
+sdv-id-VEnirx,Cá nhân,Võ Tuấn Phúc,0959555330,nataliemartin@example.org,"Số 246, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,870000.0,2026-12-27 10:00:16,1
+sdv-id-dmHJAH,Cá nhân,Dương Thành Tùng,0970468188,butlerdavid@example.com,"Số 22, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,870000.0,2026-03-30 09:42:48,1
+sdv-id-bdwNwf,Cá nhân,Bùi Minh Hà,0922304198,underwoodaaron@example.org,"Số 155, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,590000.0,2026-11-09 17:53:56,1
+sdv-id-FeQKqr,Cá nhân,Hồ Thanh Huy,0969509870,abryant@example.org,"Số 98, Đường Nguyễn Trãi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,220000.0,2026-12-30 02:51:38,1
+sdv-id-cZPzPk,Cá nhân,Lê Đức Quân,0916895666,nicoleburke@example.com,"Số 142, Đường Bà Triệu",Đà Nẵng,Phường Hàng Bài,,,0.0,870000.0,2026-10-31 13:55:47,1
+sdv-id-XRoBYY,Cá nhân,Đỗ Phương Sơn,0947295260,huntermichael@example.net,"Số 12, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-WsUjZT,Cá nhân,Võ Đức Quân,0935583290,terrynicole@example.com,"Số 142, Đường Nguyễn Trãi",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-QPBMmn,Cá nhân,Hoàng Hải Hà,0916895666,beverlyross@example.org,"Số 170, Đường Nguyễn Trãi",Đà Nẵng,Phường Hàng Bài,,,0.0,590000.0,2026-11-30 05:14:16,1
+sdv-id-TDTvch,Cá nhân,Huỳnh Quốc Khoa,0920356922,georgehunter@example.org,"Số 219, Đường Giải Phóng",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-ogGMPL,Cá nhân,Võ Thành Hà,0925766039,james42@example.org,"Số 12, Đường Giải Phóng",Hải Phòng,Phường Hàng Bài,,,0.0,870000.0,2026-03-19 07:44:58,1
+sdv-id-XAGapk,Cá nhân,Dương Văn Ngọc,0972104107,ladams@example.net,"Số 36, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,1382000.0,2026-12-30 23:32:27,1
+sdv-id-DOgDQY,Cá nhân,Võ Khánh Phúc,0939394291,vtorres@example.com,"Số 4, Đường Kim Mã",Đà Nẵng,Phường Hàng Bài,,,0.0,1020000.0,2026-12-30 17:24:47,1
+sdv-id-ZZhwEO,Cá nhân,Phan Tuấn Sơn,0984801233,shirleyadams@example.net,"Số 164, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-LzPrcP,Cá nhân,Đặng Thành Dũng,0937415205,ashley80@example.com,"Số 42, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-jbyeSf,Cá nhân,Nguyễn Tuấn Dũng,0932097220,hailey35@example.org,"Số 248, Đường Giải Phóng",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-WUMrGL,Cá nhân,Võ Hồng Ngọc,0976481885,sheltonveronica@example.net,"Số 153, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,350000.0,2026-12-28 11:58:32,1
+sdv-id-sVgNJL,Cá nhân,Hồ Quốc Sơn,0922304198,richard53@example.org,"Số 27, Đường Nguyễn Trãi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-10-26 00:20:34,1
+sdv-id-AuZPMf,Cá nhân,Lê Văn Phúc,0930534124,walexander@example.net,"Số 213, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-JzmTiU,Cá nhân,Đặng Hồng Trang,0950308572,rscott@example.net,"Số 42, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-fPVCKJ,Cá nhân,Đặng Phương Cường,0978515906,colemandavid@example.org,"Số 235, Đường Bà Triệu",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-gcdZfJ,Cá nhân,Dương Văn Sơn,0975579548,bgibson@example.net,"Số 28, Đường Kim Mã",Hải Phòng,Phường Hàng Bài,,,0.0,1020000.0,2026-11-03 08:26:46,1
+sdv-id-EGSDlh,Cá nhân,Hồ Đức Ngọc,0927152188,dparker@example.net,"Số 185, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-vbTuwE,Cá nhân,Đặng Hải Nam,0950071487,michael29@example.net,"Số 142, Đường Bà Triệu",Hải Phòng,Phường Hàng Bài,,,0.0,880000.0,2026-12-26 18:17:17,1
+sdv-id-FMxCHC,Cá nhân,Bùi Thanh Khoa,0960882459,stacey16@example.com,"Số 152, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-12-02 22:18:19,1
+sdv-id-IjBjCq,Cá nhân,Huỳnh Hải Huy,0925419645,maryjohnson@example.net,"Số 91, Đường Kim Mã",Đà Nẵng,Phường Hàng Bài,,,0.0,880000.0,2026-12-23 23:15:03,1
+sdv-id-RaeoMK,Cá nhân,Hoàng Khánh Linh,0932097220,tonya05@example.com,"Số 133, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,2110000.0,2026-12-30 21:08:18,1
+sdv-id-rqEHQF,Cá nhân,Trần Hải Linh,0956397338,thomasalisha@example.com,"Số 12, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,1750000.0,2026-12-29 20:18:08,1
+sdv-id-qXnYWp,Cá nhân,Đặng Thị Bình,0955150390,lewismelissa@example.com,"Số 12, Đường Cầu Giấy",Đà Nẵng,Phường Hàng Bài,,,0.0,590000.0,2026-12-29 06:43:04,1
+sdv-id-WxHpyf,Cá nhân,Võ Đức Bình,0948530827,shannonshannon@example.com,"Số 144, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-qMjPmx,Cá nhân,Đặng Hải Nam,0935583290,rhondahernandez@example.net,"Số 66, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-hDdykP,Cá nhân,Vũ Tuấn Anh,0977378254,harmongregory@example.org,"Số 232, Đường Nguyễn Trãi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-kOqYIk,Cá nhân,Phan Thành Trang,0950814428,rreid@example.com,"Số 232, Đường Bà Triệu",Quảng Ninh,Phường Hàng Bài,,,0.0,1760000.0,2026-12-30 13:33:11,1
+sdv-id-OiEOMF,Cá nhân,Phạm Hải Linh,0918429833,christine25@example.org,"Số 135, Đường Bà Triệu",Quảng Ninh,Phường Hàng Bài,,,0.0,1470000.0,2026-08-18 10:24:29,1
+sdv-id-TYmglp,Cá nhân,Lê Phương Cường,0970254091,melissa59@example.org,"Số 21, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,350000.0,2026-08-01 08:44:31,1
+sdv-id-kuScoC,Cá nhân,Trần Thanh Khoa,0947437115,matthew42@example.com,"Số 41, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-zKzMqh,Cá nhân,Huỳnh Văn Dũng,0921267237,susan05@example.com,"Số 181, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-CtIafm,Cá nhân,Hoàng Hồng Long,0919528530,shawnshepard@example.com,"Số 201, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-cddRao,Cá nhân,Ngô Hồng Nam,0943742830,nathan77@example.com,"Số 93, Đường Cầu Giấy",Cần Thơ,Phường Hàng Bài,,,0.0,0.0,2026-06-12 23:52:33,1
+sdv-id-GGENxJ,Cá nhân,Hoàng Quốc Bình,0930261159,walkerrobert@example.net,"Số 169, Đường Nguyễn Trãi",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-lcnTLr,Cá nhân,Võ Thành Phúc,0997225156,cchandler@example.org,"Số 138, Đường Bà Triệu",Đà Nẵng,Phường Hàng Bài,,,0.0,350000.0,2026-12-22 08:36:56,1
+sdv-id-ItwCMQ,Cá nhân,Vũ Khánh Nam,0978608612,jennifer23@example.org,"Số 59, Đường Giải Phóng",Quảng Ninh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-SzAXXc,Cá nhân,Võ Đức Quân,0925457816,daviscarla@example.org,"Số 63, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,590000.0,2026-12-22 22:35:26,1
+sdv-id-ggUZWl,Cá nhân,Đặng Thành Dũng,0911698142,stevenweaver@example.org,"Số 114, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-PPUxji,Cá nhân,Đặng Thị Bình,0988393811,ryanhayes@example.net,"Số 83, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,290000.0,2026-09-01 15:39:37,1
+sdv-id-lvjsRa,Cá nhân,Võ Đức Bình,0970468188,jamesschmidt@example.com,"Số 57, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-dhvKFD,Cá nhân,Phạm Đức Huy,0948530827,christopher95@example.com,"Số 57, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-VRjgYO,Cá nhân,Dương Hồng Cường,0991756179,burtonsteven@example.net,"Số 125, Đường Giải Phóng",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-CLtAOM,Cá nhân,Võ Tuấn Ngọc,0965250068,tgriffith@example.net,"Số 4, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-lVrVZj,Cá nhân,Ngô Khánh Long,0918815720,nmoore@example.com,"Số 198, Đường Kim Mã",Đà Nẵng,Phường Hàng Bài,,,0.0,750000.0,2026-12-22 00:54:01,1
+sdv-id-WZQNQJ,Cá nhân,Võ Thanh Linh,0924923247,garciajoanna@example.org,"Số 158, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,870000.0,2026-12-27 17:37:50,1
+sdv-id-JetSlC,Cá nhân,Võ Thành Hà,0980138498,nthomas@example.com,"Số 116, Đường Bà Triệu",Bắc Ninh,Phường Hàng Bài,,,0.0,590000.0,2026-07-31 14:03:10,1
+sdv-id-xuaKpH,Cá nhân,Hồ Đức Anh,0984801233,gbell@example.com,"Số 117, Đường Nguyễn Trãi",Đà Nẵng,Phường Hàng Bài,,,0.0,520000.0,2026-05-01 06:37:34,1
+sdv-id-HSoHpZ,Cá nhân,Đỗ Thành Long,0911031743,zdougherty@example.com,"Số 69, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-XnesAQ,Cá nhân,Phạm Văn Nam,0924972279,millsmartha@example.org,"Số 12, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-Wwpblu,Cá nhân,Võ Thành Hà,0952501540,andrea62@example.org,"Số 65, Đường Kim Mã",Hà Nội,Phường Hàng Bài,,,0.0,520000.0,2026-12-08 10:30:17,1
+sdv-id-ySjQPi,Cá nhân,Trần Đức Sơn,0935708194,hcurtis@example.org,"Số 152, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-ulFTNN,Cá nhân,Vũ Thanh Tùng,0986726461,othompson@example.org,"Số 169, Đường Nguyễn Trãi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-MNmeGZ,Cá nhân,Đỗ Thị Khoa,0986726461,xhansen@example.net,"Số 232, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,880000.0,2026-12-30 23:30:28,1
+sdv-id-ajwaMN,Cá nhân,Đặng Tuấn Linh,0954039837,tylercoleman@example.org,"Số 55, Đường Cầu Giấy",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-zXGYTQ,Cá nhân,Dương Văn Sơn,0917634247,orrsusan@example.com,"Số 125, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-rIgyUb,Cá nhân,Đặng Phương Cường,0960491958,andrea66@example.net,"Số 207, Đường Lê Lợi",Hải Phòng,Phường Hàng Bài,,,0.0,810000.0,2026-12-30 23:29:39,1
+sdv-id-NchPaD,Cá nhân,Vũ Thành Linh,0973083727,nhernandez@example.com,"Số 35, Đường Lê Lợi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-tgwqjy,Cá nhân,Vũ Quốc Quân,0964277800,melissarodriguez@example.org,"Số 95, Đường Giải Phóng",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-vRZpTu,Cá nhân,Vũ Minh Tùng,0923676961,xpope@example.com,"Số 85, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-QMCqVW,Cá nhân,Hồ Thanh Huy,0976481885,jared52@example.com,"Số 92, Đường Cầu Giấy",Bắc Ninh,Phường Hàng Bài,,,0.0,870000.0,2026-09-15 00:14:23,1
+sdv-id-urJEgt,Cá nhân,Phạm Khánh Anh,0985329037,torressamuel@example.org,"Số 2, Đường Cầu Giấy",Đà Nẵng,Phường Hàng Bài,,,0.0,880000.0,2026-12-22 12:34:56,1
+sdv-id-bVPyKk,Cá nhân,Đặng Phương Cường,0920949687,shawnfields@example.net,"Số 53, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-VoYmmn,Cá nhân,Phạm Đức Huy,0955610493,michael84@example.net,"Số 28, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,750000.0,2026-05-31 18:19:31,1
+sdv-id-lVrMbP,Cá nhân,Ngô Khánh Tùng,0998145654,jrobinson@example.net,"Số 27, Đường Nguyễn Trãi",Hải Phòng,Phường Hàng Bài,,,0.0,880000.0,2026-06-08 19:53:00,1
+sdv-id-qPorZz,Cá nhân,Phan Khánh Ngọc,0957212267,cassidyspence@example.net,"Số 63, Đường Lê Lợi",Hải Phòng,Phường Hàng Bài,,,0.0,520000.0,2026-09-16 04:19:13,1
+sdv-id-DthVzQ,Cá nhân,Võ Văn Nam,0918429833,zanthony@example.com,"Số 36, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-11-15 16:12:45,1
+sdv-id-UfKmvq,Cá nhân,Dương Tuấn Quân,0922517517,gabrielle48@example.org,"Số 125, Đường Giải Phóng",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-YDFvRA,Cá nhân,Võ Văn Nam,0918429833,kelleyjonathan@example.net,"Số 32, Đường Giải Phóng",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,870000.0,2026-12-18 18:15:08,1
+sdv-id-JdzbcF,Cá nhân,Phạm Thị Ngọc,0965692629,maciasashley@example.com,"Số 53, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-fVRdaZ,Cá nhân,Phan Tuấn Sơn,0993940940,qanderson@example.com,"Số 14, Đường Cầu Giấy",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-10-19 18:39:38,1
+sdv-id-GraDvL,Cá nhân,Lê Đức Trang,0975802771,mcdonaldtaylor@example.net,"Số 241, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,590000.0,2026-12-26 00:11:36,1
+sdv-id-gVgBZE,Cá nhân,Vũ Quốc Quân,0963238057,melaniefuentes@example.org,"Số 119, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,1918000.0,2026-10-04 03:52:11,1
+sdv-id-PxyFmy,Cá nhân,Huỳnh Hải Huy,0975802771,kmeza@example.com,"Số 28, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,870000.0,2026-04-09 23:06:18,1
+sdv-id-WFmhfe,Cá nhân,Đỗ Minh Linh,0998145654,xowens@example.com,"Số 125, Đường Cầu Giấy",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,520000.0,2026-12-15 06:49:26,1
+sdv-id-EoLfoQ,Cá nhân,Hồ Đức Cường,0969509870,justinrogers@example.org,"Số 95, Đường Giải Phóng",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,2100000.0,2026-12-26 01:26:47,1
+sdv-id-LyoEQB,Cá nhân,Nguyễn Văn Tùng,0986726461,aguirreraymond@example.com,"Số 160, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,1388000.0,2026-12-21 08:25:11,1
+sdv-id-hUdthj,Cá nhân,Võ Khánh Sơn,0926288475,abigail20@example.org,"Số 174, Đường Nguyễn Trãi",Cần Thơ,Phường Hàng Bài,,,0.0,970000.0,2026-12-04 14:08:16,1
+sdv-id-dVrDdg,Cá nhân,Hoàng Tuấn Bình,0991883846,brennanmichaela@example.com,"Số 68, Đường Bà Triệu",Đà Nẵng,Phường Hàng Bài,,,0.0,870000.0,2026-06-12 14:50:30,1
+sdv-id-PAhdUS,Cá nhân,Phan Khánh Ngọc,0960882459,john77@example.net,"Số 142, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-OzfkdS,Cá nhân,Hồ Phương Phúc,0941473195,gomezmichael@example.net,"Số 179, Đường Nguyễn Trãi",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-HfZoUb,Cá nhân,Vũ Quốc Anh,0969509870,qrichard@example.org,"Số 109, Đường Lê Lợi",Hải Phòng,Phường Hàng Bài,,,0.0,748000.0,2026-09-19 02:05:22,1
+sdv-id-vHxcbw,Cá nhân,Phan Tuấn Sơn,0976481885,jason76@example.com,"Số 226, Đường Nguyễn Trãi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-nIRCyc,Cá nhân,Dương Minh Tùng,0931776452,mooretodd@example.com,"Số 36, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,870000.0,2026-12-15 00:14:17,1
+sdv-id-EOkkVE,Cá nhân,Dương Thành Cường,0959555330,mark68@example.org,"Số 221, Đường Nguyễn Trãi",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,1918000.0,2026-12-27 16:51:38,1
+sdv-id-ehtEaP,Cá nhân,Đặng Thành Anh,0969509870,nfleming@example.com,"Số 24, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-qgPbaG,Cá nhân,Hoàng Thanh Sơn,0970606674,craiggentry@example.org,"Số 139, Đường Bà Triệu",Đà Nẵng,Phường Hàng Bài,,,0.0,1180000.0,2026-12-19 07:15:45,1
+sdv-id-eaXTWg,Cá nhân,Vũ Thanh Tùng,0919339597,egreen@example.net,"Số 109, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-gMSFAy,Cá nhân,Ngô Khánh Long,0969509870,amandaharris@example.org,"Số 117, Đường Nguyễn Trãi",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-ILptJA,Cá nhân,Đỗ Hải Linh,0924972279,sean35@example.com,"Số 138, Đường Bà Triệu",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-UPxawU,Cá nhân,Ngô Tuấn Cường,0952704903,dbarnes@example.com,"Số 226, Đường Cầu Giấy",Hải Phòng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-CmFKpj,Cá nhân,Vũ Đức Quân,0920043277,jamesortega@example.org,"Số 93, Đường Cầu Giấy",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-jyAXVH,Cá nhân,Hoàng Hải Long,0932097220,timothy93@example.com,"Số 246, Đường Kim Mã",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,1479000.0,2026-09-21 05:08:05,1
+sdv-id-ADcqSv,Cá nhân,Ngô Thị Quân,0939801436,benjaminjohnson@example.com,"Số 73, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-PUiFAa,Cá nhân,Hồ Đức Cường,0919339597,samantha06@example.com,"Số 79, Đường Giải Phóng",Đà Nẵng,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-SgbdjO,Cá nhân,Vũ Hải Cường,0947437115,bishopbradley@example.net,"Số 68, Đường Giải Phóng",Hà Nội,Phường Hàng Bài,,,0.0,350000.0,2026-10-27 03:06:48,1
+sdv-id-imvIAs,Cá nhân,Võ Tuấn Ngọc,0965250068,arobinson@example.net,"Số 114, Đường Bà Triệu",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-BrGmNm,Cá nhân,Nguyễn Phương Anh,0936757737,carternicole@example.net,"Số 112, Đường Kim Mã",Quảng Ninh,Phường Hàng Bài,,,0.0,870000.0,2026-03-26 20:19:39,1
+sdv-id-uHOzhF,Cá nhân,Võ Đức Quân,0997219599,gregorywaters@example.org,"Số 153, Đường Lê Lợi",Hà Nội,Phường Hàng Bài,,,0.0,0.0,2026-12-29 16:54:03,1
+sdv-id-dKqjXz,Cá nhân,Trần Thị Trang,0989089901,dennislong@example.com,"Số 155, Đường Bà Triệu",Cần Thơ,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1
+sdv-id-qXAGbh,Cá nhân,Nguyễn Văn Tùng,0958841557,psutton@example.org,"Số 57, Đường Bà Triệu",TP. Hồ Chí Minh,Phường Hàng Bài,,,0.0,0.0,2026-03-01,1

@@ -1,0 +1,501 @@
+﻿order_code,order_time,customer_code,seller,sales_channel,amount_due,amount_paid,status,invoice_code,note
+DH00001,2026-08-01 08:44:31,sdv-id-TYmglp,Nguyễn Văn An,Shopee,350000,350000.0,Đã hoàn thành,HDIP00001,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00002,2026-05-27 05:09:56,sdv-id-UNHXNK,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00002,Đang đóng gói chờ xuất kho
+DH00003,2026-12-29 07:18:02,sdv-id-eJXaPZ,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00004,2026-12-20 19:15:19,sdv-id-LcCsRK,Lê Hoàng Minh,TikTok Shop,870000,870000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00005,2026-09-16 15:54:40,sdv-id-wYsKTh,Phạm Quỳnh Anh,Shopee,750000,750000.0,Đã hoàn thành,HDIP00003,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00006,2026-11-29 00:31:49,sdv-id-gVtrDg,Phạm Quỳnh Anh,TikTok Shop,1038000,1038000.0,Đã hoàn thành,HDIP00004,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00007,2026-12-21 17:07:00,sdv-id-kmkXXe,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00008,2026-11-03 19:50:36,sdv-id-sKaZBF,Trần Thị Mai,Cửa hàng Offline,350000,350000.0,Đã hoàn thành,HDIP00005,Đang đóng gói chờ xuất kho
+DH00009,2026-03-15 12:22:00,sdv-id-oDuwwn,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00006,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00010,2026-12-29 20:28:41,sdv-id-QMCnQv,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00007,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00011,2026-05-14 08:17:16,sdv-id-FAkmuZ,Nguyễn Văn An,TikTok Shop,220000,220000.0,Đã hoàn thành,HDIP00008,Đang đóng gói chờ xuất kho
+DH00012,2026-12-22 18:14:57,sdv-id-DTszyt,Lê Hoàng Minh,Cửa hàng Offline,748000,748000.0,Đã hoàn thành,HDIP00009,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00013,2026-06-12 19:56:52,sdv-id-dipocD,Lê Hoàng Minh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00010,Đang đóng gói chờ xuất kho
+DH00014,2026-05-14 03:16:23,sdv-id-lljpmY,Nguyễn Văn An,Instagram,350000,350000.0,Đã hoàn thành,HDIP00011,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00015,2026-12-25 21:59:47,sdv-id-hlescg,Phạm Quỳnh Anh,Shopee,520000,520000.0,Đã hoàn thành,HDIP00012,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00016,2026-07-10 02:00:08,sdv-id-LarSif,Lê Hoàng Minh,TikTok Shop,1020000,1020000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00017,2026-12-19 05:29:15,sdv-id-hUdthj,Trần Thị Mai,Shopee,880000,880000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00018,2026-10-04 03:52:11,sdv-id-gVgBZE,Trần Thị Mai,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00013,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00019,2026-12-06 08:04:54,sdv-id-YLNPSg,Nguyễn Văn An,TikTok Shop,880000,0.0,Đang xử lý,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00020,2026-12-11 17:11:37,sdv-id-ZvexyY,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00014,Đang đóng gói chờ xuất kho
+DH00021,2026-12-26 03:42:15,sdv-id-fYBBHX,Nguyễn Văn An,Shopee,959000,959000.0,Đã hoàn thành,HDIP00015,Đang đóng gói chờ xuất kho
+DH00022,2026-12-21 08:25:11,sdv-id-LyoEQB,Lê Hoàng Minh,TikTok Shop,1038000,1038000.0,Đã hoàn thành,HDIP00016,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00023,2026-12-21 05:40:19,sdv-id-rIgyUb,Nguyễn Văn An,Shopee,350000,350000.0,Đã hoàn thành,HDIP00017,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00024,2026-12-30 13:33:11,sdv-id-kOqYIk,Trần Thị Mai,Shopee,880000,880000.0,Đã hoàn thành,HDIP00018,Không vừa size
+DH00025,2026-08-27 06:13:47,sdv-id-UtODKl,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00026,2026-10-17 19:57:42,sdv-id-eHBcmw,Trần Thị Mai,Instagram,350000,350000.0,Đã hoàn thành,HDIP00019,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00027,2026-12-28 11:58:32,sdv-id-WUMrGL,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00020,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00028,2026-03-21 00:31:42,sdv-id-szPGNW,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00021,Đang đóng gói chờ xuất kho
+DH00029,2026-12-29 14:30:28,sdv-id-bDhUNB,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00022,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00030,2026-06-03 15:59:23,sdv-id-moVQnX,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00023,Không liên lạc được khi giao
+DH00031,2026-04-21 06:28:28,sdv-id-ARfmnM,Phạm Quỳnh Anh,TikTok Shop,748000,748000.0,Đã hoàn thành,HDIP00024,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00032,2026-12-22 13:20:27,sdv-id-KUuUcI,Nguyễn Văn An,Cửa hàng Offline,520000,520000.0,Đã hoàn thành,HDIP00025,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00033,2026-09-19 02:05:22,sdv-id-HfZoUb,Nguyễn Văn An,Cửa hàng Offline,748000,748000.0,Đã hoàn thành,HDIP00026,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00034,2026-06-29 19:57:34,sdv-id-rIgyUb,Trần Thị Mai,Shopee,520000,520000.0,Đã hoàn thành,HDIP00027,Đang đóng gói chờ xuất kho
+DH00035,2026-10-03 21:22:04,sdv-id-TmtRvn,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00028,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00036,2026-12-30 06:45:35,sdv-id-RaeoMK,Nguyễn Văn An,Shopee,880000,880000.0,Đã hoàn thành,HDIP00029,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00037,2026-12-30 21:33:16,sdv-id-hjvgPC,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00030,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00038,2026-12-30 17:24:47,sdv-id-DOgDQY,Phạm Quỳnh Anh,Cửa hàng Offline,1020000,1020000.0,Đã hoàn thành,HDIP00031,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00039,2026-09-12 22:42:42,sdv-id-ynQREJ,Phạm Quỳnh Anh,Cửa hàng Offline,880000,880000.0,Đã hoàn thành,HDIP00032,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00040,2026-10-05 12:49:54,sdv-id-TeKKRT,Trần Thị Mai,Shopee,870000,870000.0,Đã hoàn thành,HDIP00033,Hết hàng cục bộ
+DH00041,2026-08-30 12:44:42,sdv-id-rqEHQF,Nguyễn Văn An,Cửa hàng Offline,880000,880000.0,Đã hoàn thành,HDIP00034,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00042,2026-11-14 08:54:19,sdv-id-nDrNxK,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00035,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00043,2026-05-29 21:06:02,sdv-id-naTTdN,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00036,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00044,2026-11-27 20:26:18,sdv-id-FPTeYp,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00037,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00045,2026-11-27 17:09:20,sdv-id-AEJYdl,Nguyễn Văn An,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00038,Hết hàng cục bộ
+DH00046,2026-12-28 21:35:23,sdv-id-RudReh,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00039,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00047,2026-09-13 10:32:57,sdv-id-hlescg,Phạm Quỳnh Anh,TikTok Shop,520000,520000.0,Đã hoàn thành,HDIP00040,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00048,2026-08-18 10:24:29,sdv-id-OiEOMF,Phạm Quỳnh Anh,TikTok Shop,1470000,1470000.0,Đã hoàn thành,HDIP00041,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00049,2026-03-16 06:55:31,sdv-id-LlRxyG,Nguyễn Văn An,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00042,Không vừa size
+DH00050,2026-03-26 07:20:38,sdv-id-EwCOKB,Trần Thị Mai,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00043,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00051,2026-11-10 02:48:43,sdv-id-EOkkVE,Phạm Quỳnh Anh,TikTok Shop,959000,959000.0,Đã hoàn thành,HDIP00044,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00052,2026-12-30 18:34:27,sdv-id-Abqngn,Trần Thị Mai,Instagram,880000,880000.0,Đã hoàn thành,HDIP00045,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00053,2026-07-03 01:58:03,sdv-id-jyAXVH,Phạm Quỳnh Anh,TikTok Shop,959000,959000.0,Đã hoàn thành,HDIP00046,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00054,2026-10-19 11:13:48,sdv-id-GKxOla,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00047,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00055,2026-04-16 07:02:46,sdv-id-EyinlT,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00048,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00056,2026-07-03 12:08:54,sdv-id-JaSGJL,Phạm Quỳnh Anh,TikTok Shop,520000,520000.0,Đã hoàn thành,HDIP00049,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00057,2026-12-29 06:08:16,sdv-id-GbBhdA,Lê Hoàng Minh,Instagram,870000,870000.0,Đã hoàn thành,HDIP00050,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00058,2026-09-29 04:13:36,sdv-id-fqJgFQ,Phạm Quỳnh Anh,Cửa hàng Offline,350000,350000.0,Đã hoàn thành,HDIP00051,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00059,2026-07-03 00:55:44,sdv-id-vulNDz,Phạm Quỳnh Anh,Shopee,750000,750000.0,Đã hoàn thành,HDIP00052,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00060,2026-04-25 06:49:26,sdv-id-pqSBgW,Phạm Quỳnh Anh,TikTok Shop,970000,970000.0,Đã hoàn thành,HDIP00053,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00061,2026-03-17 16:07:20,sdv-id-ykwZMb,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00054,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00062,2026-11-29 21:21:43,sdv-id-XjCXJx,Phạm Quỳnh Anh,Shopee,880000,880000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00063,2026-12-21 11:43:53,sdv-id-wYsKTh,Lê Hoàng Minh,Shopee,350000,350000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00064,2026-12-28 14:05:45,sdv-id-eJXaPZ,Phạm Quỳnh Anh,Instagram,750000,750000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00065,2026-08-20 21:46:14,sdv-id-MyrvuO,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00055,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00066,2026-12-29 13:39:12,sdv-id-zLBsrl,Trần Thị Mai,Cửa hàng Offline,590000,590000.0,Đã hoàn thành,HDIP00056,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00067,2026-07-28 16:02:20,sdv-id-yHjokM,Phạm Quỳnh Anh,TikTok Shop,1470000,1470000.0,Đã hoàn thành,HDIP00057,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00068,2026-12-19 07:15:45,sdv-id-qgPbaG,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00058,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00069,2026-12-25 23:39:01,sdv-id-yHmkGs,Trần Thị Mai,Cửa hàng Offline,880000,880000.0,Đã hoàn thành,HDIP00059,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00070,2026-05-16 09:13:22,sdv-id-ARfmnM,Nguyễn Văn An,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00060,Hết hàng cục bộ
+DH00071,2026-12-30 23:32:41,sdv-id-nwmJvp,Phạm Quỳnh Anh,Shopee,750000,750000.0,Đã hoàn thành,HDIP00061,Đang đóng gói chờ xuất kho
+DH00072,2026-12-15 04:47:35,sdv-id-ARfmnM,Phạm Quỳnh Anh,TikTok Shop,1020000,1020000.0,Đã hoàn thành,HDIP00062,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00073,2026-11-25 21:27:22,sdv-id-TmtRvn,Trần Thị Mai,Shopee,750000,750000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00074,2026-12-07 18:58:28,sdv-id-qxPhoE,Lê Hoàng Minh,TikTok Shop,590000,590000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00075,2026-12-03 10:51:16,sdv-id-PkcsGp,Phạm Quỳnh Anh,Shopee,520000,520000.0,Đã hoàn thành,HDIP00063,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00076,2026-12-30 02:43:00,sdv-id-FMTExC,Phạm Quỳnh Anh,TikTok Shop,520000,520000.0,Đã hoàn thành,HDIP00064,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00077,2026-09-05 21:01:11,sdv-id-fJBEmE,Nguyễn Văn An,Shopee,520000,520000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00078,2026-08-07 05:24:55,sdv-id-NAmqME,Phạm Quỳnh Anh,Instagram,970000,970000.0,Đã hoàn thành,HDIP00065,Khách đổi ý hủy đơn
+DH00079,2026-09-09 11:30:21,sdv-id-NsegqC,Phạm Quỳnh Anh,Cửa hàng Offline,220000,220000.0,Đã hoàn thành,HDIP00066,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00080,2026-03-15 12:22:00,sdv-id-oIaqXZ,Nguyễn Văn An,Shopee,520000,520000.0,Đã hoàn thành,HDIP00067,Không liên lạc được khi giao
+DH00081,2026-12-30 02:53:35,sdv-id-gikoYZ,Phạm Quỳnh Anh,Cửa hàng Offline,880000,880000.0,Đã hoàn thành,HDIP00068,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00082,2026-11-25 12:50:48,sdv-id-kmkXXe,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00069,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00083,2026-11-23 21:54:55,sdv-id-iQvXOl,Phạm Quỳnh Anh,Cửa hàng Offline,880000,880000.0,Đã hoàn thành,HDIP00070,Không liên lạc được khi giao
+DH00084,2026-07-07 16:52:04,sdv-id-kJgigG,Phạm Quỳnh Anh,TikTok Shop,290000,290000.0,Đã hoàn thành,HDIP00071,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00085,2026-12-30 23:30:28,sdv-id-MNmeGZ,Phạm Quỳnh Anh,Shopee,880000,880000.0,Đã hoàn thành,HDIP00072,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00086,2026-11-05 14:36:26,sdv-id-yfyUpW,Phạm Quỳnh Anh,Cửa hàng Offline,750000,750000.0,Đã hoàn thành,HDIP00073,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00087,2026-08-07 02:07:56,sdv-id-TtaJPw,Nguyễn Văn An,Instagram,590000,590000.0,Đã hoàn thành,HDIP00074,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00088,2026-12-30 23:32:27,sdv-id-XAGapk,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00075,Không vừa size
+DH00089,2026-09-05 17:57:40,sdv-id-dQXcXG,Phạm Quỳnh Anh,Shopee,1628000,1628000.0,Đã hoàn thành,HDIP00076,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00090,2026-05-28 15:43:13,sdv-id-jNgnAI,Phạm Quỳnh Anh,TikTok Shop,520000,520000.0,Đã hoàn thành,HDIP00077,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00091,2026-06-19 10:08:57,sdv-id-kbyJAF,Lê Hoàng Minh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00078,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00092,2026-09-08 01:10:31,sdv-id-dwSgfm,Phạm Quỳnh Anh,Shopee,350000,350000.0,Đã hoàn thành,HDIP00079,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00093,2026-12-09 11:47:28,sdv-id-LUybQd,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00080,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00094,2026-04-17 20:17:42,sdv-id-eJXaPZ,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00081,Hết hàng cục bộ
+DH00095,2026-12-26 18:57:51,sdv-id-AtIdmT,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00082,Đang đóng gói chờ xuất kho
+DH00096,2026-12-07 14:46:39,sdv-id-DajUHZ,Phạm Quỳnh Anh,Cửa hàng Offline,880000,880000.0,Đã hoàn thành,HDIP00083,Hết hàng cục bộ
+DH00097,2026-09-13 22:23:25,sdv-id-BzIgNi,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00084,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00098,2026-08-31 00:45:00,sdv-id-lbDeOo,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00085,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00099,2026-06-12 14:50:30,sdv-id-dVrDdg,Lê Hoàng Minh,Shopee,870000,870000.0,Đã hoàn thành,HDIP00086,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00100,2026-03-19 01:53:47,sdv-id-gPfUBx,Trần Thị Mai,TikTok Shop,1549000,1549000.0,Đã hoàn thành,,Không liên lạc được khi giao
+DH00101,2026-05-31 18:19:31,sdv-id-VoYmmn,Phạm Quỳnh Anh,TikTok Shop,750000,750000.0,Đã hoàn thành,HDIP00087,Đang đóng gói chờ xuất kho
+DH00102,2026-08-24 04:05:11,sdv-id-wGNxJJ,Phạm Quỳnh Anh,Shopee,520000,520000.0,Đã hoàn thành,HDIP00088,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00103,2026-12-05 08:56:50,sdv-id-jNgnAI,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00089,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00104,2026-12-25 14:09:20,sdv-id-TCivcF,Lê Hoàng Minh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00090,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00105,2026-06-12 23:52:33,sdv-id-cddRao,Phạm Quỳnh Anh,TikTok Shop,220000,220000.0,Đã hoàn thành,HDIP00091,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00106,2026-12-30 18:47:18,sdv-id-piWPND,Lê Hoàng Minh,TikTok Shop,959000,959000.0,Đã hoàn thành,HDIP00092,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00107,2026-12-30 21:54:34,sdv-id-tbHXRf,Phạm Quỳnh Anh,Cửa hàng Offline,590000,590000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00108,2026-12-27 22:03:12,sdv-id-CMXUNe,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00093,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00109,2026-06-08 18:23:28,sdv-id-OuzFqY,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00094,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00110,2026-12-11 10:40:28,sdv-id-BGmZYf,Phạm Quỳnh Anh,Shopee,350000,350000.0,Đã hoàn thành,HDIP00095,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00111,2026-12-29 06:43:04,sdv-id-qXnYWp,Phạm Quỳnh Anh,Shopee,880000,880000.0,Đã hoàn thành,HDIP00096,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00112,2026-11-07 11:35:32,sdv-id-GbBhdA,Lê Hoàng Minh,Shopee,870000,870000.0,Đã hoàn thành,HDIP00097,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00113,2026-12-04 10:27:28,sdv-id-jJSZZi,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00098,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00114,2026-06-02 05:04:35,sdv-id-vvwGra,Nguyễn Văn An,Cửa hàng Offline,880000,880000.0,Đã hoàn thành,HDIP00099,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00115,2026-12-17 00:27:15,sdv-id-kUpQMI,Phạm Quỳnh Anh,Shopee,590000,590000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00116,2026-07-30 02:01:59,sdv-id-crtDja,Phạm Quỳnh Anh,TikTok Shop,750000,750000.0,Đã hoàn thành,HDIP00100,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00117,2026-08-13 10:41:54,sdv-id-Aiwiru,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00101,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00118,2026-08-17 07:42:02,sdv-id-qeXdaK,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00102,Hết hàng cục bộ
+DH00119,2026-10-03 16:58:26,sdv-id-qKlfyd,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00103,Không liên lạc được khi giao
+DH00120,2026-11-28 13:06:03,sdv-id-FMTExC,Phạm Quỳnh Anh,Cửa hàng Offline,870000,870000.0,Đã hoàn thành,HDIP00104,Không liên lạc được khi giao
+DH00121,2026-05-09 09:44:20,sdv-id-jNgnAI,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00105,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00122,2026-12-26 01:26:47,sdv-id-EoLfoQ,Trần Thị Mai,Instagram,350000,350000.0,Đã hoàn thành,HDIP00106,Đang đóng gói chờ xuất kho
+DH00123,2026-03-23 09:45:08,sdv-id-bgaNeK,Phạm Quỳnh Anh,TikTok Shop,1470000,1470000.0,Đã hoàn thành,HDIP00107,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00124,2026-12-30 22:37:41,sdv-id-WrZnAU,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00108,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00125,2026-06-11 18:02:16,sdv-id-moVQnX,Phạm Quỳnh Anh,TikTok Shop,959000,959000.0,Đã hoàn thành,HDIP00109,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00126,2026-03-15 12:22:00,sdv-id-ADcqSv,Phạm Quỳnh Anh,TikTok Shop,959000,959000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00127,2026-06-15 23:35:54,sdv-id-CwaYCj,Trần Thị Mai,Cửa hàng Offline,520000,520000.0,Đã hoàn thành,HDIP00110,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00128,2026-12-16 05:53:38,sdv-id-GJrnCp,Phạm Quỳnh Anh,TikTok Shop,520000,520000.0,Đã hoàn thành,HDIP00111,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00129,2026-08-20 12:28:51,sdv-id-jyAXVH,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00112,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00130,2026-08-06 05:15:00,sdv-id-oDzQrP,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00113,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00131,2026-12-18 11:45:28,sdv-id-IUHrLf,Phạm Quỳnh Anh,TikTok Shop,500000,500000.0,Đã hoàn thành,HDIP00114,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00132,2026-07-12 11:39:13,sdv-id-GbBhdA,Trần Thị Mai,Shopee,590000,590000.0,Đã hoàn thành,,Đang đóng gói chờ xuất kho
+DH00133,2026-03-15 12:22:00,sdv-id-jwhFky,Lê Hoàng Minh,Shopee,880000,880000.0,Đã hoàn thành,HDIP00115,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00134,2026-11-13 05:48:36,sdv-id-IDKxCv,Trần Thị Mai,Shopee,590000,590000.0,Đã hoàn thành,HDIP00116,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00135,2026-12-30 23:04:27,sdv-id-OapVGz,Trần Thị Mai,Instagram,590000,590000.0,Đã hoàn thành,HDIP00117,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00136,2026-12-30 18:05:40,sdv-id-TDoBga,Phạm Quỳnh Anh,Cửa hàng Offline,748000,748000.0,Đã hoàn thành,HDIP00118,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00137,2026-10-14 07:46:30,sdv-id-GKxOla,Phạm Quỳnh Anh,Instagram,590000,590000.0,Đã hoàn thành,HDIP00119,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00138,2026-11-26 07:54:14,sdv-id-OUpIHi,Lê Hoàng Minh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00120,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00139,2026-03-29 04:06:23,sdv-id-rIgyUb,Lê Hoàng Minh,TikTok Shop,220000,220000.0,Đã hoàn thành,HDIP00121,Hết hàng cục bộ
+DH00140,2026-11-30 13:32:55,sdv-id-ATEDFa,Lê Hoàng Minh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00122,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00141,2026-10-28 10:37:25,sdv-id-NNmEGU,Phạm Quỳnh Anh,Shopee,290000,290000.0,Đã hoàn thành,HDIP00123,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00142,2026-11-03 03:41:56,sdv-id-CHtXAy,Nguyễn Văn An,Shopee,520000,520000.0,Đã hoàn thành,HDIP00124,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00143,2026-04-22 12:01:59,sdv-id-DTszyt,Phạm Quỳnh Anh,TikTok Shop,870000,0.0,Đã hủy,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00144,2026-07-10 16:02:35,sdv-id-qeXdaK,Phạm Quỳnh Anh,Shopee,880000,880000.0,Đã hoàn thành,HDIP00125,Không vừa size
+DH00145,2026-09-01 15:39:37,sdv-id-PPUxji,Lê Hoàng Minh,TikTok Shop,290000,290000.0,Đã hoàn thành,HDIP00126,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00146,2026-10-04 03:32:18,sdv-id-wGNxJJ,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00127,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00147,2026-06-13 03:54:27,sdv-id-rBatse,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00128,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00148,2026-12-27 10:00:16,sdv-id-VEnirx,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00129,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00149,2026-12-30 21:08:18,sdv-id-RaeoMK,Phạm Quỳnh Anh,Shopee,350000,350000.0,Đã hoàn thành,HDIP00130,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00150,2026-12-15 00:14:17,sdv-id-nIRCyc,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00131,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00151,2026-08-30 22:34:17,sdv-id-owkjus,Phạm Quỳnh Anh,Shopee,880000,880000.0,Đã hoàn thành,HDIP00132,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00152,2026-12-29 20:18:08,sdv-id-rqEHQF,Lê Hoàng Minh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00133,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00153,2026-10-31 15:42:22,sdv-id-xebXPa,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00154,2026-12-26 00:11:36,sdv-id-GraDvL,Nguyễn Văn An,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00134,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00155,2026-12-13 23:33:40,sdv-id-qIZZQS,Phạm Quỳnh Anh,Shopee,880000,880000.0,Đã hoàn thành,HDIP00135,Không liên lạc được khi giao
+DH00156,2026-12-30 22:43:35,sdv-id-gGytwL,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00136,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00157,2026-12-07 19:33:16,sdv-id-gAoGDy,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00137,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00158,2026-04-08 12:38:13,sdv-id-vnYqXO,Phạm Quỳnh Anh,Instagram,590000,590000.0,Đã hoàn thành,HDIP00138,Đang đóng gói chờ xuất kho
+DH00159,2026-12-20 14:44:26,sdv-id-EoLfoQ,Lê Hoàng Minh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00139,Không liên lạc được khi giao
+DH00160,2026-12-16 22:04:21,sdv-id-vnYqXO,Nguyễn Văn An,TikTok Shop,1470000,1470000.0,Đã hoàn thành,HDIP00140,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00161,2026-12-16 08:45:30,sdv-id-GrSvzH,Nguyễn Văn An,TikTok Shop,669000,669000.0,Đã hoàn thành,HDIP00141,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00162,2026-10-09 00:05:56,sdv-id-CgrwAL,Phạm Quỳnh Anh,Shopee,350000,350000.0,Đã hoàn thành,HDIP00142,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00163,2026-12-30 22:47:19,sdv-id-LZLzmS,Phạm Quỳnh Anh,Shopee,290000,290000.0,Đã hoàn thành,HDIP00143,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00164,2026-12-30 21:01:42,sdv-id-ILOdRL,Phạm Quỳnh Anh,Cửa hàng Offline,220000,220000.0,Đã hoàn thành,HDIP00144,Đang đóng gói chờ xuất kho
+DH00165,2026-05-01 01:52:24,sdv-id-VRnWmq,Phạm Quỳnh Anh,Cửa hàng Offline,880000,880000.0,Đã hoàn thành,HDIP00145,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00166,2026-06-16 18:41:39,sdv-id-GrSvzH,Phạm Quỳnh Anh,TikTok Shop,1090000,1090000.0,Đã hoàn thành,HDIP00146,Không liên lạc được khi giao
+DH00167,2026-12-18 06:19:00,sdv-id-YNcDYU,Trần Thị Mai,Instagram,880000,880000.0,Đã hoàn thành,HDIP00147,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00168,2026-12-30 23:32:32,sdv-id-EouPxP,Phạm Quỳnh Anh,Instagram,870000,870000.0,Đã hoàn thành,HDIP00148,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00169,2026-12-30 03:28:05,sdv-id-FAkmuZ,Phạm Quỳnh Anh,Shopee,870000,870000.0,Đã hoàn thành,HDIP00149,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00170,2026-12-30 23:29:39,sdv-id-rIgyUb,Lê Hoàng Minh,Shopee,590000,590000.0,Đã hoàn thành,HDIP00150,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00171,2026-12-20 10:58:27,sdv-id-KaGKnP,Lê Hoàng Minh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00151,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00172,2026-11-21 02:21:45,sdv-id-MyrvuO,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00152,Khách đổi ý hủy đơn
+DH00173,2026-12-17 03:31:17,sdv-id-YiyfsH,Phạm Quỳnh Anh,Shopee,220000,220000.0,Đã hoàn thành,HDIP00153,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00174,2026-12-21 16:31:45,sdv-id-oDuwwn,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00175,2026-11-03 08:26:46,sdv-id-gcdZfJ,Nguyễn Văn An,Shopee,1020000,1020000.0,Đã hoàn thành,HDIP00154,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00176,2026-12-30 07:01:41,sdv-id-CHtXAy,Nguyễn Văn An,Shopee,870000,870000.0,Đã hoàn thành,HDIP00155,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00177,2026-12-30 22:02:33,sdv-id-KPJbAW,Phạm Quỳnh Anh,Cửa hàng Offline,350000,350000.0,Đã hoàn thành,HDIP00156,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00178,2026-08-25 05:38:11,sdv-id-vnYqXO,Phạm Quỳnh Anh,TikTok Shop,748000,748000.0,Đã hoàn thành,HDIP00157,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00179,2026-12-19 13:10:03,sdv-id-hTGRbz,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00158,Đang đóng gói chờ xuất kho
+DH00180,2026-07-12 13:09:04,sdv-id-zLBsrl,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00181,2026-10-19 18:39:38,sdv-id-fVRdaZ,Phạm Quỳnh Anh,TikTok Shop,290000,290000.0,Đã hoàn thành,HDIP00159,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00182,2026-08-10 10:31:42,sdv-id-zAjQyA,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00160,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00183,2026-04-07 15:31:06,sdv-id-RudReh,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00161,Đang đóng gói chờ xuất kho
+DH00184,2026-10-30 00:21:28,sdv-id-EwCOKB,Phạm Quỳnh Anh,Cửa hàng Offline,1180000,1180000.0,Đã hoàn thành,HDIP00162,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00185,2026-12-27 18:20:51,sdv-id-HcFyQu,Lê Hoàng Minh,TikTok Shop,220000,220000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00186,2026-05-21 20:49:38,sdv-id-TCivcF,Phạm Quỳnh Anh,Shopee,880000,880000.0,Đã hoàn thành,HDIP00163,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00187,2026-11-11 10:31:10,sdv-id-XAGapk,Phạm Quỳnh Anh,TikTok Shop,792000,792000.0,Đã hoàn thành,HDIP00164,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00188,2026-12-08 18:05:04,sdv-id-ksSnhL,Nguyễn Văn An,Cửa hàng Offline,959000,959000.0,Đã hoàn thành,HDIP00165,Khách đổi ý hủy đơn
+DH00189,2026-11-23 13:48:10,sdv-id-IyYVDc,Phạm Quỳnh Anh,Shopee,669000,669000.0,Đã hoàn thành,HDIP00166,Đang đóng gói chờ xuất kho
+DH00190,2026-12-15 18:59:48,sdv-id-XguaGe,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00167,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00191,2026-11-09 14:32:26,sdv-id-qXnYWp,Lê Hoàng Minh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00168,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00192,2026-12-22 12:34:56,sdv-id-urJEgt,Nguyễn Văn An,Shopee,880000,880000.0,Đã hoàn thành,HDIP00169,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00193,2026-12-30 22:47:13,sdv-id-owkjus,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00170,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00194,2026-12-19 08:43:14,sdv-id-kmkXXe,Lê Hoàng Minh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00171,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00195,2026-11-21 14:11:48,sdv-id-NAmqME,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00172,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00196,2026-12-23 23:15:03,sdv-id-IjBjCq,Phạm Quỳnh Anh,Shopee,880000,880000.0,Đã hoàn thành,HDIP00173,Hết hàng cục bộ
+DH00197,2026-09-16 04:19:13,sdv-id-qPorZz,Nguyễn Văn An,Shopee,520000,520000.0,Đã hoàn thành,HDIP00174,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00198,2026-12-26 11:50:56,sdv-id-CgrwAL,Nguyễn Văn An,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00175,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00199,2026-11-28 14:59:23,sdv-id-yGoLmE,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00176,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00200,2026-12-30 12:23:38,sdv-id-pXCMOx,Lê Hoàng Minh,Cửa hàng Offline,500000,500000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00201,2026-11-06 19:31:01,sdv-id-CHtXAy,Phạm Quỳnh Anh,TikTok Shop,220000,0.0,Đã hủy,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00202,2026-09-03 07:59:44,sdv-id-LZLzmS,Phạm Quỳnh Anh,TikTok Shop,959000,959000.0,Đã hoàn thành,HDIP00177,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00203,2026-08-18 16:25:28,sdv-id-XJSYvh,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00178,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00204,2026-10-19 10:04:53,sdv-id-JzmTiU,Trần Thị Mai,TikTok Shop,350000,350000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00205,2026-12-01 07:11:46,sdv-id-NAmqME,Phạm Quỳnh Anh,Cửa hàng Offline,590000,590000.0,Đã hoàn thành,HDIP00179,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00206,2026-09-05 06:33:12,sdv-id-xgEZeF,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00180,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00207,2026-04-22 08:33:17,sdv-id-UtODKl,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00181,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00208,2026-10-31 13:55:47,sdv-id-cZPzPk,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00182,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00209,2026-12-27 22:14:41,sdv-id-fjEDfw,Phạm Quỳnh Anh,TikTok Shop,970000,970000.0,Đã hoàn thành,HDIP00183,Không liên lạc được khi giao
+DH00210,2026-03-15 12:22:00,sdv-id-gVgBZE,Phạm Quỳnh Anh,TikTok Shop,1038000,1038000.0,Đã hoàn thành,HDIP00184,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00211,2026-12-23 13:02:53,sdv-id-gqiByh,Trần Thị Mai,Shopee,870000,870000.0,Đã hoàn thành,HDIP00185,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00212,2026-06-01 19:51:47,sdv-id-qBOGHL,Nguyễn Văn An,Cửa hàng Offline,880000,880000.0,Đã hoàn thành,HDIP00186,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00213,2026-11-27 17:09:21,sdv-id-nwxzpQ,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00187,Không liên lạc được khi giao
+DH00214,2026-08-29 18:49:18,sdv-id-ySjQPi,Phạm Quỳnh Anh,Shopee,220000,220000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00215,2026-12-02 22:18:19,sdv-id-FMxCHC,Nguyễn Văn An,TikTok Shop,520000,520000.0,Đã hoàn thành,HDIP00188,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00216,2026-12-21 01:01:03,sdv-id-BMuMTL,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00189,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00217,2026-07-22 22:05:00,sdv-id-jGJzec,Phạm Quỳnh Anh,TikTok Shop,500000,500000.0,Đã hoàn thành,HDIP00190,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00218,2026-12-04 14:08:16,sdv-id-hUdthj,Phạm Quỳnh Anh,Cửa hàng Offline,970000,970000.0,Đã hoàn thành,HDIP00191,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00219,2026-11-11 00:50:19,sdv-id-WZQNQJ,Phạm Quỳnh Anh,TikTok Shop,315000,315000.0,Đã hoàn thành,,Không liên lạc được khi giao
+DH00220,2026-12-30 21:32:18,sdv-id-WEElFq,Phạm Quỳnh Anh,TikTok Shop,220000,220000.0,Đã hoàn thành,HDIP00192,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00221,2026-07-31 14:03:10,sdv-id-JetSlC,Phạm Quỳnh Anh,Shopee,590000,590000.0,Đã hoàn thành,HDIP00193,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00222,2026-04-23 17:41:55,sdv-id-gqiByh,Nguyễn Văn An,Cửa hàng Offline,220000,220000.0,Đã hoàn thành,HDIP00194,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00223,2026-11-04 16:39:56,sdv-id-jgaUna,Phạm Quỳnh Anh,TikTok Shop,290000,290000.0,Đã hoàn thành,HDIP00195,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00224,2026-04-10 08:21:27,sdv-id-qxPhoE,Phạm Quỳnh Anh,Instagram,350000,350000.0,Đã hoàn thành,HDIP00196,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00225,2026-05-27 01:31:23,sdv-id-vnWeWz,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00197,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00226,2026-12-22 08:36:56,sdv-id-lcnTLr,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00198,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00227,2026-10-05 21:31:23,sdv-id-DgaTvy,Phạm Quỳnh Anh,Shopee,500000,500000.0,Đã hoàn thành,HDIP00199,Không liên lạc được khi giao
+DH00228,2026-09-29 08:24:49,sdv-id-LyoEQB,Phạm Quỳnh Anh,Shopee,350000,350000.0,Đã hoàn thành,HDIP00200,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00229,2026-10-06 00:43:43,sdv-id-zGLDwM,Lê Hoàng Minh,TikTok Shop,880000,880000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00230,2026-08-11 19:06:52,sdv-id-OuzFqY,Phạm Quỳnh Anh,Shopee,350000,350000.0,Đã hoàn thành,HDIP00201,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00231,2026-12-30 02:51:38,sdv-id-FeQKqr,Phạm Quỳnh Anh,TikTok Shop,220000,220000.0,Đã hoàn thành,HDIP00202,Khách đổi ý hủy đơn
+DH00232,2026-10-24 17:04:27,sdv-id-biiHDN,Phạm Quỳnh Anh,Shopee,290000,290000.0,Đã hoàn thành,HDIP00203,Đang đóng gói chờ xuất kho
+DH00233,2026-12-30 00:45:30,sdv-id-xgEZeF,Lê Hoàng Minh,Cửa hàng Offline,350000,350000.0,Đã hoàn thành,HDIP00204,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00234,2026-12-30 23:32:05,sdv-id-CYdFVj,Phạm Quỳnh Anh,Instagram,590000,590000.0,Đã hoàn thành,HDIP00205,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00235,2026-04-17 13:44:49,sdv-id-pFpgBh,Lê Hoàng Minh,TikTok Shop,290000,290000.0,Đã hoàn thành,HDIP00206,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00236,2026-09-12 01:52:15,sdv-id-AlqkUK,Lê Hoàng Minh,Shopee,880000,880000.0,Đã hoàn thành,HDIP00207,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00237,2026-09-30 20:55:01,sdv-id-YtRDnY,Phạm Quỳnh Anh,TikTok Shop,350000,0.0,Đang xử lý,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00238,2026-12-14 18:41:42,sdv-id-xscKXy,Phạm Quỳnh Anh,TikTok Shop,750000,750000.0,Đã hoàn thành,HDIP00208,Không liên lạc được khi giao
+DH00239,2026-03-15 12:22:00,sdv-id-ViOgAz,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00240,2026-12-12 11:47:15,sdv-id-TUJtgE,Phạm Quỳnh Anh,Shopee,590000,590000.0,Đã hoàn thành,HDIP00209,Đang đóng gói chờ xuất kho
+DH00241,2026-12-23 08:31:04,sdv-id-tvmJyL,Phạm Quỳnh Anh,Shopee,880000,880000.0,Đã hoàn thành,HDIP00210,Không liên lạc được khi giao
+DH00242,2026-05-23 07:58:14,sdv-id-KbBxSO,Phạm Quỳnh Anh,Shopee,520000,520000.0,Đã hoàn thành,HDIP00211,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00243,2026-05-27 17:34:36,sdv-id-iZeCWI,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00212,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00244,2026-10-25 06:35:36,sdv-id-CgTQBE,Phạm Quỳnh Anh,Cửa hàng Offline,590000,590000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00245,2026-12-25 03:44:45,sdv-id-DTszyt,Phạm Quỳnh Anh,TikTok Shop,220000,220000.0,Đã hoàn thành,HDIP00213,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00246,2026-12-29 14:13:39,sdv-id-xIDlbj,Phạm Quỳnh Anh,TikTok Shop,290000,290000.0,Đã hoàn thành,HDIP00214,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00247,2026-10-12 16:12:12,sdv-id-QMCnQv,Trần Thị Mai,TikTok Shop,880000,0.0,Đã hủy,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00248,2026-11-21 00:42:32,sdv-id-rMOHOM,Phạm Quỳnh Anh,Shopee,880000,880000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00249,2026-09-03 06:32:26,sdv-id-XJSYvh,Phạm Quỳnh Anh,TikTok Shop,1038000,1038000.0,Đã hoàn thành,,Không vừa size
+DH00250,2026-10-10 20:35:27,sdv-id-tuEbfL,Phạm Quỳnh Anh,TikTok Shop,748000,748000.0,Đã hoàn thành,HDIP00215,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00251,2026-12-29 16:54:03,sdv-id-uHOzhF,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00216,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00252,2026-07-14 17:45:00,sdv-id-trlWee,Phạm Quỳnh Anh,TikTok Shop,1090000,1090000.0,Đã hoàn thành,HDIP00217,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00253,2026-12-06 13:41:53,sdv-id-iWppCX,Trần Thị Mai,Instagram,590000,590000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00254,2026-12-17 22:02:43,sdv-id-yGoLmE,Trần Thị Mai,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00218,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00255,2026-07-19 04:58:42,sdv-id-jodJMC,Lê Hoàng Minh,Shopee,1020000,1020000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00256,2026-10-16 19:09:57,sdv-id-dwSgfm,Trần Thị Mai,Instagram,350000,350000.0,Đã hoàn thành,HDIP00219,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00257,2026-12-28 20:41:09,sdv-id-JHWtXI,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00258,2026-04-16 14:49:58,sdv-id-DTszyt,Phạm Quỳnh Anh,Instagram,350000,350000.0,Đã hoàn thành,HDIP00220,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00259,2026-12-12 07:39:47,sdv-id-ngtGAZ,Phạm Quỳnh Anh,Shopee,590000,590000.0,Đã hoàn thành,HDIP00221,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00260,2026-07-02 05:10:56,sdv-id-xgUMaz,Phạm Quỳnh Anh,TikTok Shop,1090000,1090000.0,Đã hoàn thành,HDIP00222,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00261,2026-11-30 05:14:16,sdv-id-QPBMmn,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00223,Không liên lạc được khi giao
+DH00262,2026-06-05 19:26:06,sdv-id-tuEbfL,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00224,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00263,2026-03-15 12:22:00,sdv-id-Uugunx,Phạm Quỳnh Anh,Shopee,880000,880000.0,Đã hoàn thành,HDIP00225,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00264,2026-11-23 22:16:59,sdv-id-EKdZqN,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00226,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00265,2026-12-03 08:10:57,sdv-id-LUybQd,Trần Thị Mai,Cửa hàng Offline,880000,880000.0,Đã hoàn thành,HDIP00227,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00266,2026-08-31 07:42:11,sdv-id-GlEzUF,Phạm Quỳnh Anh,TikTok Shop,1038000,1038000.0,Đã hoàn thành,HDIP00228,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00267,2026-12-25 23:16:15,sdv-id-LXgAyc,Phạm Quỳnh Anh,Shopee,750000,750000.0,Đã hoàn thành,HDIP00229,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00268,2026-11-09 03:26:23,sdv-id-vnYqXO,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00230,Không liên lạc được khi giao
+DH00269,2026-11-24 17:55:17,sdv-id-bgaNeK,Nguyễn Văn An,Instagram,350000,350000.0,Đã hoàn thành,HDIP00231,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00270,2026-03-18 17:45:22,sdv-id-QMCnQv,Phạm Quỳnh Anh,TikTok Shop,220000,220000.0,Đã hoàn thành,HDIP00232,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00271,2026-12-02 00:01:07,sdv-id-TzlWem,Nguyễn Văn An,Cửa hàng Offline,750000,750000.0,Đã hoàn thành,HDIP00233,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00272,2026-12-30 11:11:33,sdv-id-hTGRbz,Trần Thị Mai,Cửa hàng Offline,870000,870000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00273,2026-12-30 22:23:40,sdv-id-JzhOJO,Lê Hoàng Minh,Cửa hàng Offline,1038000,1038000.0,Đã hoàn thành,HDIP00234,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00274,2026-05-13 13:57:21,sdv-id-mwOdOs,Lê Hoàng Minh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00235,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00275,2026-06-16 01:52:25,sdv-id-hTGRbz,Phạm Quỳnh Anh,TikTok Shop,750000,750000.0,Đã hoàn thành,HDIP00236,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00276,2026-06-15 18:19:08,sdv-id-smjiGN,Nguyễn Văn An,Cửa hàng Offline,870000,0.0,Đang xử lý,,Đang đóng gói chờ xuất kho
+DH00277,2026-11-24 14:25:15,sdv-id-BMuMTL,Nguyễn Văn An,Cửa hàng Offline,1090000,1090000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00278,2026-03-30 09:42:48,sdv-id-dmHJAH,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00237,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00279,2026-09-28 09:24:58,sdv-id-CgTQBE,Nguyễn Văn An,Shopee,750000,750000.0,Đã hoàn thành,HDIP00238,Không liên lạc được khi giao
+DH00280,2026-11-29 23:18:17,sdv-id-ifiaHP,Lê Hoàng Minh,TikTok Shop,1038000,1038000.0,Đã hoàn thành,HDIP00239,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00281,2026-12-30 02:22:39,sdv-id-IKUtuc,Phạm Quỳnh Anh,TikTok Shop,570000,570000.0,Đã hoàn thành,HDIP00240,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00282,2026-12-04 01:47:28,sdv-id-OUpIHi,Phạm Quỳnh Anh,Shopee,870000,870000.0,Đã hoàn thành,HDIP00241,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00283,2026-10-06 23:57:32,sdv-id-vWfxSe,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00242,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00284,2026-11-19 07:47:55,sdv-id-MkMmvH,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00243,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00285,2026-05-06 04:41:25,sdv-id-qDhMeI,Trần Thị Mai,Shopee,870000,870000.0,Đã hoàn thành,HDIP00244,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00286,2026-08-19 20:14:28,sdv-id-XguaGe,Lê Hoàng Minh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00245,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00287,2026-06-18 06:39:36,sdv-id-KBZPCY,Phạm Quỳnh Anh,Cửa hàng Offline,1020000,1020000.0,Đã hoàn thành,HDIP00246,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00288,2026-03-15 12:22:00,sdv-id-heOQlC,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00247,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00289,2026-09-13 23:18:23,sdv-id-vnYqXO,Trần Thị Mai,Shopee,590000,590000.0,Đã hoàn thành,HDIP00248,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00290,2026-12-19 05:38:18,sdv-id-CCChiY,Phạm Quỳnh Anh,TikTok Shop,750000,750000.0,Đã hoàn thành,HDIP00249,Đang đóng gói chờ xuất kho
+DH00291,2026-12-24 19:35:37,sdv-id-LtIXgs,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,,Không vừa size
+DH00292,2026-04-01 19:44:16,sdv-id-nDrNxK,Lê Hoàng Minh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00250,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00293,2026-11-25 22:58:14,sdv-id-anijDj,Phạm Quỳnh Anh,TikTok Shop,520000,520000.0,Đã hoàn thành,HDIP00251,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00294,2026-12-30 23:00:29,sdv-id-AlqkUK,Trần Thị Mai,Cửa hàng Offline,220000,220000.0,Đã hoàn thành,HDIP00252,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00295,2026-07-22 07:14:34,sdv-id-wfneXb,Phạm Quỳnh Anh,Cửa hàng Offline,290000,290000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00296,2026-11-08 01:50:26,sdv-id-aICkEU,Lê Hoàng Minh,Shopee,880000,880000.0,Đã hoàn thành,HDIP00253,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00297,2026-07-21 18:50:19,sdv-id-hlescg,Lê Hoàng Minh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00254,Đang đóng gói chờ xuất kho
+DH00298,2026-11-13 20:21:43,sdv-id-naTTdN,Phạm Quỳnh Anh,Shopee,880000,880000.0,Đã hoàn thành,HDIP00255,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00299,2026-11-09 17:53:56,sdv-id-bdwNwf,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00256,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00300,2026-11-08 04:06:08,sdv-id-BGmZYf,Nguyễn Văn An,Shopee,880000,880000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00301,2026-11-13 04:57:27,sdv-id-jJSZZi,Nguyễn Văn An,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00257,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00302,2026-11-15 18:00:26,sdv-id-gkApTz,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00258,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00303,2026-12-30 22:21:14,sdv-id-WFmhfe,Phạm Quỳnh Anh,Shopee,350000,350000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00304,2026-12-30 20:58:56,sdv-id-jodJMC,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00259,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00305,2026-12-29 13:36:09,sdv-id-RJbpem,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00260,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00306,2026-12-26 10:22:06,sdv-id-lHaaIA,Phạm Quỳnh Anh,Cửa hàng Offline,870000,870000.0,Đã hoàn thành,HDIP00261,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00307,2026-06-18 11:30:57,sdv-id-rOQIpB,Phạm Quỳnh Anh,Cửa hàng Offline,350000,350000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00308,2026-09-18 15:49:00,sdv-id-tbHXRf,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00262,Không liên lạc được khi giao
+DH00309,2026-10-18 06:23:28,sdv-id-uuUvRY,Nguyễn Văn An,Shopee,350000,350000.0,Đã hoàn thành,HDIP00263,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00310,2026-11-29 05:28:02,sdv-id-FAkmuZ,Phạm Quỳnh Anh,Cửa hàng Offline,220000,220000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00311,2026-11-16 16:48:03,sdv-id-nwxzpQ,Trần Thị Mai,Cửa hàng Offline,1259000,1259000.0,Đã hoàn thành,,Đang đóng gói chờ xuất kho
+DH00312,2026-04-12 12:01:20,sdv-id-ykwZMb,Phạm Quỳnh Anh,Shopee,350000,350000.0,Đã hoàn thành,HDIP00264,Đang đóng gói chờ xuất kho
+DH00313,2026-12-29 00:47:31,sdv-id-JorCea,Trần Thị Mai,Shopee,880000,880000.0,Đã hoàn thành,HDIP00265,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00314,2026-03-15 12:22:00,sdv-id-YtYWgE,Phạm Quỳnh Anh,Cửa hàng Offline,669000,669000.0,Đã hoàn thành,HDIP00266,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00315,2026-11-19 03:48:19,sdv-id-yGoLmE,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00267,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00316,2026-12-21 04:29:35,sdv-id-ZvexyY,Lê Hoàng Minh,Shopee,290000,290000.0,Đã hoàn thành,,Đang đóng gói chờ xuất kho
+DH00317,2026-07-24 21:47:47,sdv-id-WDIQEn,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00268,Không liên lạc được khi giao
+DH00318,2026-04-24 10:00:06,sdv-id-gqiByh,Trần Thị Mai,Instagram,870000,870000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00319,2026-12-30 22:05:04,sdv-id-pFpgBh,Lê Hoàng Minh,Shopee,880000,880000.0,Đã hoàn thành,HDIP00269,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00320,2026-05-12 07:41:04,sdv-id-tHfRzE,Phạm Quỳnh Anh,TikTok Shop,350000,0.0,Đã hủy,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00321,2026-12-30 20:40:01,sdv-id-HkgBbw,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00270,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00322,2026-10-15 15:56:23,sdv-id-nDrNxK,Phạm Quỳnh Anh,Cửa hàng Offline,1090000,1090000.0,Đã hoàn thành,HDIP00271,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00323,2026-11-08 08:25:34,sdv-id-RaeoMK,Phạm Quỳnh Anh,Cửa hàng Offline,880000,880000.0,Đã hoàn thành,HDIP00272,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00324,2026-10-26 00:20:34,sdv-id-sVgNJL,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00273,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00325,2026-09-11 06:22:13,sdv-id-lbDeOo,Nguyễn Văn An,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00274,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00326,2026-06-02 03:42:34,sdv-id-gVtrDg,Phạm Quỳnh Anh,Cửa hàng Offline,500000,500000.0,Đã hoàn thành,HDIP00275,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00327,2026-11-05 18:39:10,sdv-id-COFQbY,Trần Thị Mai,Shopee,350000,350000.0,Đã hoàn thành,HDIP00276,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00328,2026-05-23 02:29:16,sdv-id-tKSbJF,Lê Hoàng Minh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00277,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00329,2026-12-28 13:34:59,sdv-id-VSYabI,Phạm Quỳnh Anh,TikTok Shop,220000,220000.0,Đã hoàn thành,HDIP00278,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00330,2026-12-15 06:49:26,sdv-id-WFmhfe,Phạm Quỳnh Anh,TikTok Shop,520000,520000.0,Đã hoàn thành,HDIP00279,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00331,2026-12-13 00:46:43,sdv-id-FMxCHC,Phạm Quỳnh Anh,TikTok Shop,590000,0.0,Đang xử lý,,Không liên lạc được khi giao
+DH00332,2026-10-10 20:00:58,sdv-id-YiyfsH,Phạm Quỳnh Anh,TikTok Shop,959000,959000.0,Đã hoàn thành,HDIP00280,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00333,2026-03-27 03:24:28,sdv-id-VbQlII,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00281,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00334,2026-12-13 05:03:23,sdv-id-gkApTz,Trần Thị Mai,Cửa hàng Offline,970000,970000.0,Đã hoàn thành,,Không liên lạc được khi giao
+DH00335,2026-03-15 12:22:00,sdv-id-TOOmbx,Trần Thị Mai,Cửa hàng Offline,870000,870000.0,Đã hoàn thành,HDIP00282,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00336,2026-06-27 20:59:44,sdv-id-GrSvzH,Phạm Quỳnh Anh,TikTok Shop,750000,750000.0,Đã hoàn thành,HDIP00283,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00337,2026-12-20 11:44:27,sdv-id-jVTHxp,Trần Thị Mai,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00284,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00338,2026-12-15 05:59:03,sdv-id-JkQEqB,Nguyễn Văn An,Cửa hàng Offline,880000,880000.0,Đã hoàn thành,HDIP00285,Hết hàng cục bộ
+DH00339,2026-08-08 16:41:41,sdv-id-SzAXXc,Trần Thị Mai,Shopee,590000,590000.0,Đã hoàn thành,HDIP00286,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00340,2026-12-30 19:08:39,sdv-id-mwOdOs,Phạm Quỳnh Anh,TikTok Shop,590000,0.0,Đã hủy,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00341,2026-11-30 02:28:52,sdv-id-lHaaIA,Phạm Quỳnh Anh,TikTok Shop,1090000,1090000.0,Đã hoàn thành,,Không liên lạc được khi giao
+DH00342,2026-12-27 05:22:36,sdv-id-kUKMqR,Trần Thị Mai,Shopee,590000,590000.0,Đã hoàn thành,HDIP00287,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00343,2026-09-30 13:07:22,sdv-id-CYdFVj,Trần Thị Mai,Cửa hàng Offline,350000,350000.0,Đã hoàn thành,HDIP00288,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00344,2026-11-30 03:01:02,sdv-id-aICkEU,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00289,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00345,2026-07-09 00:59:19,sdv-id-qgPbaG,Nguyễn Văn An,Instagram,669000,669000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00346,2026-12-13 04:09:19,sdv-id-Jtfrnl,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00290,Không liên lạc được khi giao
+DH00347,2026-09-08 01:58:02,sdv-id-EoLfoQ,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00291,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00348,2026-12-23 21:29:42,sdv-id-Uugunx,Trần Thị Mai,Cửa hàng Offline,970000,970000.0,Đã hoàn thành,HDIP00292,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00349,2026-12-27 17:37:50,sdv-id-WZQNQJ,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00293,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00350,2026-08-11 10:29:33,sdv-id-kOqYIk,Phạm Quỳnh Anh,Shopee,880000,880000.0,Đã hoàn thành,HDIP00294,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00351,2026-12-30 14:43:11,sdv-id-IjBjCq,Lê Hoàng Minh,TikTok Shop,870000,870000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00352,2026-07-13 08:04:31,sdv-id-jKAbQy,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00295,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00353,2026-12-26 14:31:55,sdv-id-oIBQvk,Phạm Quỳnh Anh,TikTok Shop,500000,500000.0,Đã hoàn thành,HDIP00296,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00354,2026-11-27 21:14:12,sdv-id-ovYDmA,Trần Thị Mai,TikTok Shop,959000,959000.0,Đã hoàn thành,HDIP00297,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00355,2026-10-22 17:28:20,sdv-id-srMVWt,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00298,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00356,2026-10-01 22:53:19,sdv-id-sVgNJL,Phạm Quỳnh Anh,Cửa hàng Offline,870000,870000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00357,2026-11-17 20:05:00,sdv-id-ZiyKfU,Phạm Quỳnh Anh,TikTok Shop,1038000,1038000.0,Đã hoàn thành,HDIP00299,Đang đóng gói chờ xuất kho
+DH00358,2026-12-30 22:14:36,sdv-id-pFpgBh,Lê Hoàng Minh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00300,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00359,2026-10-22 00:35:15,sdv-id-DcexXO,Nguyễn Văn An,Cửa hàng Offline,870000,870000.0,Đã hoàn thành,HDIP00301,Đang đóng gói chờ xuất kho
+DH00360,2026-10-28 12:38:05,sdv-id-JzyQLN,Phạm Quỳnh Anh,Shopee,669000,669000.0,Đã hoàn thành,HDIP00302,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00361,2026-12-30 23:32:49,sdv-id-rBatse,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00303,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00362,2026-12-29 08:10:39,sdv-id-gwpYWN,Trần Thị Mai,Instagram,350000,350000.0,Đã hoàn thành,HDIP00304,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00363,2026-12-18 02:05:00,sdv-id-vbXlDD,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00305,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00364,2026-06-10 07:22:46,sdv-id-kUKMqR,Phạm Quỳnh Anh,Shopee,870000,870000.0,Đã hoàn thành,HDIP00306,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00365,2026-06-22 02:03:59,sdv-id-Muptfd,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00307,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00366,2026-05-19 12:18:37,sdv-id-NdVqtt,Nguyễn Văn An,Shopee,1020000,1020000.0,Đã hoàn thành,HDIP00308,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00367,2026-04-08 03:25:04,sdv-id-CMQYRz,Phạm Quỳnh Anh,TikTok Shop,1038000,1038000.0,Đã hoàn thành,HDIP00309,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00368,2026-06-26 15:47:07,sdv-id-Aiwiru,Nguyễn Văn An,Instagram,590000,590000.0,Đã hoàn thành,HDIP00310,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00369,2026-05-02 07:30:27,sdv-id-LTNpWk,Phạm Quỳnh Anh,TikTok Shop,570000,570000.0,Đã hoàn thành,HDIP00311,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00370,2026-11-30 13:26:15,sdv-id-AhipMm,Phạm Quỳnh Anh,Shopee,500000,500000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00371,2026-03-20 21:51:37,sdv-id-BsBwHh,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00312,Đang đóng gói chờ xuất kho
+DH00372,2026-12-27 11:23:22,sdv-id-TzlWem,Phạm Quỳnh Anh,TikTok Shop,220000,220000.0,Đã hoàn thành,HDIP00313,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00373,2026-05-12 01:44:32,sdv-id-ksSnhL,Phạm Quỳnh Anh,Shopee,590000,590000.0,Đã hoàn thành,HDIP00314,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00374,2026-07-02 23:35:50,sdv-id-qMWBQL,Phạm Quỳnh Anh,Shopee,590000,590000.0,Đã hoàn thành,HDIP00315,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00375,2026-05-31 00:01:04,sdv-id-anhBfU,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00316,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00376,2026-04-24 06:02:09,sdv-id-SOvJvJ,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00377,2026-12-19 04:04:34,sdv-id-srMVWt,Trần Thị Mai,Shopee,870000,870000.0,Đã hoàn thành,HDIP00317,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00378,2026-05-22 21:14:25,sdv-id-CgTQBE,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00379,2026-12-30 17:46:26,sdv-id-JMWomh,Phạm Quỳnh Anh,TikTok Shop,520000,520000.0,Đã hoàn thành,HDIP00318,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00380,2026-12-18 17:27:48,sdv-id-lLthyK,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00381,2026-07-23 14:56:46,sdv-id-qKlfyd,Phạm Quỳnh Anh,Shopee,350000,350000.0,Đã hoàn thành,HDIP00319,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00382,2026-05-09 07:34:17,sdv-id-KaGKnP,Phạm Quỳnh Anh,TikTok Shop,970000,970000.0,Đã hoàn thành,HDIP00320,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00383,2026-06-08 19:53:00,sdv-id-lVrMbP,Nguyễn Văn An,Instagram,880000,880000.0,Đã hoàn thành,HDIP00321,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00384,2026-08-22 01:40:24,sdv-id-UzYjnm,Trần Thị Mai,Cửa hàng Offline,520000,520000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00385,2026-07-22 13:51:01,sdv-id-wYsKTh,Nguyễn Văn An,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00322,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00386,2026-12-17 04:56:22,sdv-id-VSYabI,Phạm Quỳnh Anh,Shopee,880000,880000.0,Đã hoàn thành,HDIP00323,Đang đóng gói chờ xuất kho
+DH00387,2026-12-01 02:14:42,sdv-id-WrZnAU,Phạm Quỳnh Anh,Shopee,520000,520000.0,Đã hoàn thành,HDIP00324,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00388,2026-06-30 05:31:44,sdv-id-yMcMwr,Lê Hoàng Minh,TikTok Shop,590000,590000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00389,2026-11-24 11:52:06,sdv-id-pdpJfS,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00325,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00390,2026-10-09 22:11:40,sdv-id-IDKxCv,Phạm Quỳnh Anh,Shopee,350000,350000.0,Đã hoàn thành,HDIP00326,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00391,2026-05-20 10:25:42,sdv-id-VbQlII,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00327,Hết hàng cục bộ
+DH00392,2026-03-19 07:44:58,sdv-id-ogGMPL,Phạm Quỳnh Anh,Shopee,870000,870000.0,Đã hoàn thành,HDIP00328,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00393,2026-12-04 09:56:36,sdv-id-KelnnH,Phạm Quỳnh Anh,Instagram,350000,350000.0,Đã hoàn thành,HDIP00329,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00394,2026-05-28 17:43:56,sdv-id-nfaUHF,Phạm Quỳnh Anh,Shopee,880000,0.0,Đang xử lý,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00395,2026-11-13 06:44:13,sdv-id-PGPbRX,Trần Thị Mai,Instagram,350000,350000.0,Đã hoàn thành,HDIP00330,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00396,2026-08-24 18:31:23,sdv-id-CYdFVj,Phạm Quỳnh Anh,Shopee,350000,350000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00397,2026-12-24 23:12:02,sdv-id-jCbNIV,Phạm Quỳnh Anh,Shopee,880000,880000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00398,2026-09-28 16:42:35,sdv-id-ZvexyY,Phạm Quỳnh Anh,Cửa hàng Offline,880000,880000.0,Đã hoàn thành,HDIP00331,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00399,2026-12-27 16:51:38,sdv-id-EOkkVE,Phạm Quỳnh Anh,Shopee,959000,959000.0,Đã hoàn thành,HDIP00332,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00400,2026-12-24 03:22:08,sdv-id-WCDeSH,Phạm Quỳnh Anh,TikTok Shop,1038000,1038000.0,Đã hoàn thành,HDIP00333,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00401,2026-12-30 23:15:51,sdv-id-SaIEyU,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,,Đang đóng gói chờ xuất kho
+DH00402,2026-12-21 21:26:07,sdv-id-UNHXNK,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00334,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00403,2026-12-24 10:28:15,sdv-id-DZhCMs,Lê Hoàng Minh,Instagram,880000,880000.0,Đã hoàn thành,HDIP00335,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00404,2026-11-16 06:24:00,sdv-id-PGPbRX,Trần Thị Mai,Shopee,1038000,1038000.0,Đã hoàn thành,HDIP00336,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00405,2026-12-30 22:06:11,sdv-id-UzYjnm,Phạm Quỳnh Anh,TikTok Shop,220000,220000.0,Đã hoàn thành,HDIP00337,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00406,2026-12-22 22:35:26,sdv-id-SzAXXc,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00338,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00407,2026-12-18 18:15:08,sdv-id-YDFvRA,Phạm Quỳnh Anh,Shopee,870000,870000.0,Đã hoàn thành,HDIP00339,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00408,2026-12-30 16:22:27,sdv-id-StwOsm,Trần Thị Mai,Cửa hàng Offline,870000,870000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00409,2026-12-13 23:54:28,sdv-id-moVQnX,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00340,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00410,2026-06-16 16:10:50,sdv-id-CLtAOM,Trần Thị Mai,Shopee,1020000,1020000.0,Đã hoàn thành,,Đang đóng gói chờ xuất kho
+DH00411,2026-11-27 21:49:02,sdv-id-GePyGT,Phạm Quỳnh Anh,Cửa hàng Offline,350000,350000.0,Đã hoàn thành,HDIP00341,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00412,2026-05-09 06:30:17,sdv-id-lLthyK,Lê Hoàng Minh,Instagram,1470000,1470000.0,Đã hoàn thành,HDIP00342,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00413,2026-08-02 00:11:03,sdv-id-xGsXju,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00343,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00414,2026-08-17 01:14:16,sdv-id-WZQNQJ,Lê Hoàng Minh,TikTok Shop,520000,520000.0,Đã hoàn thành,HDIP00344,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00415,2026-12-16 01:56:21,sdv-id-MNmeGZ,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00416,2026-10-27 06:50:27,sdv-id-NVheZV,Nguyễn Văn An,TikTok Shop,290000,290000.0,Đã hoàn thành,HDIP00345,Khách đổi ý hủy đơn
+DH00417,2026-12-07 00:28:58,sdv-id-pqSBgW,Lê Hoàng Minh,TikTok Shop,350000,350000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00418,2026-07-16 02:35:23,sdv-id-fqJgFQ,Phạm Quỳnh Anh,TikTok Shop,290000,290000.0,Đã hoàn thành,HDIP00346,Hết hàng cục bộ
+DH00419,2026-12-30 20:36:45,sdv-id-rrlnKq,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00347,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00420,2026-11-13 10:16:53,sdv-id-mlldEa,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00421,2026-10-27 16:06:13,sdv-id-vnrzIn,Lê Hoàng Minh,Cửa hàng Offline,350000,350000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00422,2026-12-30 15:29:28,sdv-id-TpSsZp,Nguyễn Văn An,Shopee,590000,590000.0,Đã hoàn thành,HDIP00348,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00423,2026-03-15 12:22:00,sdv-id-VoYmmn,Phạm Quỳnh Anh,TikTok Shop,520000,520000.0,Đã hoàn thành,HDIP00349,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00424,2026-12-14 08:23:50,sdv-id-wGNxJJ,Phạm Quỳnh Anh,TikTok Shop,1038000,1038000.0,Đã hoàn thành,HDIP00350,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00425,2026-10-24 19:22:01,sdv-id-TZJlmw,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00351,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00426,2026-12-22 00:54:01,sdv-id-lVrVZj,Phạm Quỳnh Anh,TikTok Shop,750000,750000.0,Đã hoàn thành,HDIP00352,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00427,2026-12-30 23:20:44,sdv-id-OapVGz,Trần Thị Mai,Instagram,350000,350000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00428,2026-12-29 08:31:16,sdv-id-vulNDz,Nguyễn Văn An,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00353,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00429,2026-12-30 04:27:52,sdv-id-RJbpem,Nguyễn Văn An,TikTok Shop,570000,570000.0,Đã hoàn thành,HDIP00354,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00430,2026-12-30 14:20:01,sdv-id-TPcgVr,Nguyễn Văn An,Cửa hàng Offline,880000,880000.0,Đã hoàn thành,HDIP00355,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00431,2026-12-30 23:32:57,sdv-id-qDhMeI,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00356,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00432,2026-10-22 03:20:59,sdv-id-smjiGN,Nguyễn Văn An,Cửa hàng Offline,870000,0.0,Đã hủy,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00433,2026-10-27 03:06:48,sdv-id-SgbdjO,Nguyễn Văn An,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00357,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00434,2026-09-04 05:14:31,sdv-id-gikoYZ,Phạm Quỳnh Anh,TikTok Shop,290000,290000.0,Đã hoàn thành,HDIP00358,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00435,2026-12-28 01:19:37,sdv-id-LtIXgs,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00436,2026-06-08 09:26:40,sdv-id-EoLfoQ,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00359,Đang đóng gói chờ xuất kho
+DH00437,2026-06-20 04:08:44,sdv-id-DwNPYk,Phạm Quỳnh Anh,TikTok Shop,290000,290000.0,Đã hoàn thành,HDIP00360,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00438,2026-12-11 20:20:47,sdv-id-rBatse,Lê Hoàng Minh,TikTok Shop,1180000,1180000.0,Đã hoàn thành,HDIP00361,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00439,2026-12-04 02:23:40,sdv-id-AEJYdl,Nguyễn Văn An,TikTok Shop,520000,520000.0,Đã hoàn thành,HDIP00362,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00440,2026-12-24 21:06:08,sdv-id-wfneXb,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00363,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00441,2026-04-09 23:06:18,sdv-id-PxyFmy,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00364,Không liên lạc được khi giao
+DH00442,2026-07-17 04:35:37,sdv-id-MrgoSh,Trần Thị Mai,TikTok Shop,220000,220000.0,Đã hoàn thành,HDIP00365,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00443,2026-04-19 01:10:14,sdv-id-pFpgBh,Nguyễn Văn An,TikTok Shop,500000,500000.0,Đã hoàn thành,HDIP00366,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00444,2026-04-17 13:45:04,sdv-id-XZTUsV,Trần Thị Mai,Instagram,880000,880000.0,Đã hoàn thành,HDIP00367,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00445,2026-04-23 00:44:27,sdv-id-LcCsRK,Trần Thị Mai,Shopee,590000,590000.0,Đã hoàn thành,HDIP00368,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00446,2026-04-13 15:59:19,sdv-id-tuEbfL,Phạm Quỳnh Anh,TikTok Shop,748000,748000.0,Đã hoàn thành,HDIP00369,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00447,2026-12-15 14:32:43,sdv-id-bgaNeK,Lê Hoàng Minh,Cửa hàng Offline,590000,0.0,Đang xử lý,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00448,2026-05-29 06:28:55,sdv-id-AtIdmT,Trần Thị Mai,Cửa hàng Offline,590000,590000.0,Đã hoàn thành,HDIP00370,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00449,2026-12-17 02:14:05,sdv-id-lLthyK,Lê Hoàng Minh,Cửa hàng Offline,500000,500000.0,Đã hoàn thành,HDIP00371,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00450,2026-08-06 02:27:49,sdv-id-vhRwmh,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00372,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00451,2026-03-16 21:39:59,sdv-id-gkApTz,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00373,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00452,2026-11-29 11:17:54,sdv-id-gPfUBx,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00374,Đang đóng gói chờ xuất kho
+DH00453,2026-09-08 13:12:51,sdv-id-OgdGnV,Phạm Quỳnh Anh,Cửa hàng Offline,220000,220000.0,Đã hoàn thành,HDIP00375,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00454,2026-03-18 23:35:01,sdv-id-yHjokM,Phạm Quỳnh Anh,Shopee,1090000,1090000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00455,2026-12-18 00:41:06,sdv-id-ATEDFa,Nguyễn Văn An,Cửa hàng Offline,870000,870000.0,Đã hoàn thành,HDIP00376,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00456,2026-09-09 09:19:26,sdv-id-WGvhUM,Phạm Quỳnh Anh,Shopee,590000,590000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00457,2026-12-26 05:27:12,sdv-id-smjiGN,Lê Hoàng Minh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00377,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00458,2026-09-11 08:10:53,sdv-id-xebXPa,Nguyễn Văn An,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00378,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00459,2026-07-01 02:06:21,sdv-id-gcdZfJ,Phạm Quỳnh Anh,TikTok Shop,290000,290000.0,Đã hoàn thành,HDIP00379,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00460,2026-12-29 21:34:03,sdv-id-bDhUNB,Nguyễn Văn An,Shopee,870000,870000.0,Đã hoàn thành,HDIP00380,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00461,2026-10-29 12:14:08,sdv-id-yHjokM,Phạm Quỳnh Anh,Cửa hàng Offline,220000,220000.0,Đã hoàn thành,HDIP00381,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00462,2026-11-10 07:31:38,sdv-id-oDuwwn,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00382,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00463,2026-12-08 10:30:17,sdv-id-Wwpblu,Nguyễn Văn An,TikTok Shop,520000,520000.0,Đã hoàn thành,HDIP00383,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00464,2026-07-20 21:40:00,sdv-id-UNHXNK,Phạm Quỳnh Anh,Cửa hàng Offline,350000,350000.0,Đã hoàn thành,HDIP00384,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00465,2026-03-26 18:07:24,sdv-id-rIgyUb,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00385,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00466,2026-12-26 18:17:17,sdv-id-vbTuwE,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00386,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00467,2026-12-15 08:28:42,sdv-id-KFVGHr,Nguyễn Văn An,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00387,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00468,2026-12-14 18:31:44,sdv-id-EOkkVE,Lê Hoàng Minh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00388,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00469,2026-09-25 06:17:47,sdv-id-gAoGDy,Trần Thị Mai,Cửa hàng Offline,1180000,1180000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00470,2026-09-12 16:37:13,sdv-id-qgPbaG,Phạm Quỳnh Anh,TikTok Shop,1180000,1180000.0,Đã hoàn thành,HDIP00389,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00471,2026-10-26 18:03:08,sdv-id-TkurTw,Phạm Quỳnh Anh,Cửa hàng Offline,959000,959000.0,Đã hoàn thành,HDIP00390,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00472,2026-12-22 13:31:32,sdv-id-HURJcJ,Phạm Quỳnh Anh,Cửa hàng Offline,870000,870000.0,Đã hoàn thành,HDIP00391,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00473,2026-11-28 14:09:34,sdv-id-QUNfBj,Phạm Quỳnh Anh,Shopee,870000,0.0,Đã hủy,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00474,2026-09-25 13:43:03,sdv-id-NEJbOH,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00392,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00475,2026-09-15 00:14:23,sdv-id-QMCqVW,Phạm Quỳnh Anh,TikTok Shop,870000,870000.0,Đã hoàn thành,HDIP00393,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00476,2026-12-30 20:49:25,sdv-id-tuEbfL,Phạm Quỳnh Anh,TikTok Shop,1180000,0.0,Đã hủy,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00477,2026-10-31 21:38:01,sdv-id-eJXaPZ,Lê Hoàng Minh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00394,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00478,2026-12-29 08:58:49,sdv-id-YNcDYU,Nguyễn Văn An,Cửa hàng Offline,880000,880000.0,Đã hoàn thành,HDIP00395,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00479,2026-12-26 23:35:52,sdv-id-KdXdvI,Phạm Quỳnh Anh,TikTok Shop,970000,970000.0,Đã hoàn thành,HDIP00396,Không liên lạc được khi giao
+DH00480,2026-06-27 23:48:32,sdv-id-anhBfU,Nguyễn Văn An,TikTok Shop,1090000,1090000.0,Đã hoàn thành,HDIP00397,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00481,2026-08-20 10:45:39,sdv-id-xgEZeF,Phạm Quỳnh Anh,TikTok Shop,669000,669000.0,Đã hoàn thành,HDIP00398,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00482,2026-12-30 23:08:49,sdv-id-uohcyk,Trần Thị Mai,TikTok Shop,590000,0.0,Đã hủy,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00483,2026-09-21 05:08:05,sdv-id-jyAXVH,Phạm Quỳnh Anh,TikTok Shop,520000,520000.0,Đã hoàn thành,HDIP00399,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00484,2026-09-29 12:24:24,sdv-id-NAIFlz,Nguyễn Văn An,Cửa hàng Offline,290000,290000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00485,2026-12-18 20:06:15,sdv-id-IKXOkm,Phạm Quỳnh Anh,Shopee,870000,870000.0,Đã hoàn thành,HDIP00400,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00486,2026-05-01 06:37:34,sdv-id-xuaKpH,Phạm Quỳnh Anh,Cửa hàng Offline,520000,520000.0,Đã hoàn thành,HDIP00401,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00487,2026-05-18 10:03:43,sdv-id-yHjokM,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00402,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00488,2026-05-01 00:31:43,sdv-id-tUmRka,Phạm Quỳnh Anh,Cửa hàng Offline,220000,220000.0,Đã hoàn thành,HDIP00403,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00489,2026-10-01 19:24:15,sdv-id-jgaUna,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00404,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00490,2026-12-24 01:05:35,sdv-id-jGJzec,Phạm Quỳnh Anh,TikTok Shop,350000,350000.0,Đã hoàn thành,HDIP00405,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00491,2026-12-15 11:55:14,sdv-id-kUpQMI,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00406,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00492,2026-11-03 17:55:01,sdv-id-DyalvK,Phạm Quỳnh Anh,Shopee,1470000,1470000.0,Đã hoàn thành,HDIP00407,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00493,2026-08-29 01:58:52,sdv-id-xIDlbj,Lê Hoàng Minh,Instagram,669000,669000.0,Đã hoàn thành,HDIP00408,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00494,2026-04-13 17:57:43,sdv-id-kJgigG,Phạm Quỳnh Anh,TikTok Shop,590000,590000.0,Đã hoàn thành,HDIP00409,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00495,2026-03-26 20:19:39,sdv-id-BrGmNm,Nguyễn Văn An,Shopee,870000,870000.0,Đã hoàn thành,HDIP00410,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00496,2026-12-06 15:02:43,sdv-id-eVicID,Phạm Quỳnh Anh,TikTok Shop,570000,570000.0,Đã hoàn thành,,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00497,2026-11-15 16:12:45,sdv-id-DthVzQ,Nguyễn Văn An,Shopee,870000,870000.0,Đã hoàn thành,HDIP00411,Đơn hoàn thành chuyển sang hóa đơn bán hàng
+DH00498,2026-10-05 10:29:31,sdv-id-iCYdRO,Phạm Quỳnh Anh,TikTok Shop,748000,748000.0,Đã hoàn thành,,Đang đóng gói chờ xuất kho
+DH00499,2026-11-24 04:14:59,sdv-id-uCBkYT,Phạm Quỳnh Anh,TikTok Shop,870000,0.0,Đang xử lý,,Không liên lạc được khi giao
+DH00500,2026-07-18 08:26:09,sdv-id-GJrnCp,Phạm Quỳnh Anh,TikTok Shop,880000,880000.0,Đã hoàn thành,HDIP00412,Đơn hoàn thành chuyển sang hóa đơn bán hàng

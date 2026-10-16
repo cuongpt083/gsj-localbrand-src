@@ -1,0 +1,13 @@
+﻿product_code,barcode,product_name,product_type,category_path,brand,sale_price,cost_price,stock_on_hand,uom,is_active,is_direct_sale
+FORM-HOODIE-BLK-S,8935001001,Áo Hoodie Oversized Đen (Size S),Hàng hóa,Thời trang > Áo > Hoodie,FORM Studio,590000,230000,500,Chiếc,1,1
+FORM-HOODIE-BLK-M,8935001002,Áo Hoodie Oversized Đen (Size M),Hàng hóa,Thời trang > Áo > Hoodie,FORM Studio,590000,230000,500,Chiếc,1,1
+FORM-HOODIE-BLK-L,8935001003,Áo Hoodie Oversized Đen (Size L),Hàng hóa,Thời trang > Áo > Hoodie,FORM Studio,590000,230000,500,Chiếc,1,1
+FORM-HOODIE-WHT-M,8935001004,Áo Hoodie Trắng In Logo (Size M),Hàng hóa,Thời trang > Áo > Hoodie,FORM Studio,590000,230000,400,Chiếc,1,1
+BEANIE-001,8935002001,Mũ Beanie Len Form Streetwear,Hàng hóa,Thời trang > Phụ kiện > Mũ len,FORM Studio,290000,90000,200,Cái,1,1
+TEE-OVZ-BLK-M,8935003001,Áo Thun Oversize Đen Graphic (Size M),Hàng hóa,Thời trang > Áo > Áo thun,FORM Studio,350000,120000,600,Chiếc,1,1
+TEE-OVZ-WHT-L,8935003002,Áo Thun Oversize Trắng Minimal (Size L),Hàng hóa,Thời trang > Áo > Áo thun,FORM Studio,350000,120000,600,Chiếc,1,1
+CARGO-PNT-BLK-M,8935004001,Quần Cargo Pants Multi-Pocket (Size M),Hàng hóa,Thời trang > Quần > Quần dài,FORM Studio,520000,200000,300,Chiếc,1,1
+BOMBER-JKT-BLK-L,8935005001,Áo Khoác Bomber Street Flight (Size L),Hàng hóa,Thời trang > Áo khoác > Bomber,FORM Studio,750000,310000,250,Chiếc,1,1
+CAP-STREET-01,8935006001,Mũ Lưỡi Trai Classic Embroidery,Hàng hóa,Thời trang > Phụ kiện > Mũ,FORM Studio,220000,70000,350,Cái,1,1
+SOCKS-CREW-WHT,8935007001,Tất Cổ Cao Form Crew Socks (Trắng),Hàng hóa,Thời trang > Phụ kiện > Tất,FORM Studio,79000,20000,800,Đôi,1,1
+TOTE-CANVAS-01,8935008001,Túi Canvas Tote Street Vibes,Hàng hóa,Thời trang > Phụ kiện > Túi,FORM Studio,150000,45000,400,Chiếc,1,1

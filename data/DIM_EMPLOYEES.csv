@@ -1,0 +1,5 @@
+﻿employee_code,employee_name,phone,department,title,login,branch_working
+NV001,Nguyễn Văn An,0912345601,Bán hàng,Nhân viên bán hàng,annv,Cửa hàng Phố Huế (Hà Nội)
+NV002,Trần Thị Mai,0912345602,Thu ngân,Thu ngân,maitt,Cửa hàng Phố Huế (Hà Nội)
+NV003,Lê Hoàng Minh,0988888888,Quản lý,Founder & Cửa hàng trưởng,minhlh,Tổng kho & Online
+NV004,Phạm Quỳnh Anh,0912345604,Livestream,Host TikTok Live,anhpq,Kênh Online
